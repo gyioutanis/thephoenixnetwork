@@ -61,7 +61,7 @@
                                             class="gen-font-gradient">system</span></h1>
                             </div>
                         </div>
-                        <div class="home-app__text">
+                        <div class="home-app__text" style="margin-bottom: 20px;">
                             <p>
                                 Together with our partners we have delivered the foundations for the decentralized future of gold.
                             </p>
@@ -78,40 +78,35 @@
                         </div>
 
 
-                        <div class="home-press__item_3">
-                            <div class="home-press__item__img">
-                                <img src="assets/img/temp/communication.png"
-                                     width="560"
-                                     height="310" alt="">
+                        <div class="home-press__item_3 gen-font-gradient_bottom" >
+                            <div class="home-press__item__img" style="-webkit-box-shadow:none; box-shadow: none;padding-bottom: 45%;border-radius: 0px;">
+                                <img src="assets/img/img-pgc-nfts.svg" style="width: 100px;height: 100px;" alt="">
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;text-align: center;font-weight: bold;">virtualized physical gold (gold backed NFTs and limited supply PGC utility tokens)
+                                <p style="font-size: 25px;font-weight: bold;">virtualized physical gold (gold backed NFTs and limited supply PGC utility tokens)
                                 </p>
                             </div>
                         </div>
 
-                        <div class="home-press__item_3">
-                            <div class="home-press__item__img">
-                                <img src="assets/img/temp/energy.png"
-                                     width="560" height="310" alt="">
+                        <div class="home-press__item_3 gen-font-gradient_bottom" >
+                            <div class="home-press__item__img" style="-webkit-box-shadow:none; box-shadow: none;padding-bottom: 45%;border-radius: 0px;">
+                                <img src="assets/img/img-pgc-shops.svg" style="width: 100px;height: 100px;" alt="">
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;text-align: center;font-weight: bold;">a network of gold shops where you can redeem your NFT for gold
+                                <p style="font-size: 25px;font-weight: bold;">a network of gold shops where you can redeem your NFT for gold
                                 </p>
                             </div>
                         </div>
 
-                        <div class="home-press__item_3">
-                            <div class="home-press__item__img">
-                                <img src="assets/img/temp/commerce.png"
-                                     width="560"
-                                     height="310" alt="">
+                        <div class="home-press__item_3 gen-font-gradient_bottom" >
+                            <div class="home-press__item__img" style="-webkit-box-shadow:none; box-shadow: none;padding-bottom: 45%;border-radius: 0px;">
+                                <img src="assets/img/img-pgc_network.svg" style="width: 100px;height: 100px;" alt="">
                             </div>
-                            <div class="home-press__item__text">
+                            <div class="home-press__item__text" >
 
-                                <p style="font-size: 25px;text-align: center;font-weight: bold;">worldwide network of businesses accepting PGC tokens</p>
+                                <p style="font-size: 25px;font-weight: bold;">worldwide network of businesses accepting PGC tokens</p>
                             </div>
                         </div>
 
@@ -148,10 +143,12 @@
                             <div class="home-benefits__blocks__item__text">
                                 <h4 class="text-6xl capitalize">How to get <span class="gen-font-gradient">$PGC</span>
                                 </h4>
-                                <p style="max-width: 700px;">You can buy $PGC on a DEFI exchange, stake it in the Green
-                                    Power App to unlock play to earn games, or you can buy Green Miner NFTs and help
-                                    build
-                                    renewable storage around the world.</p>
+                                <p style="max-width: 700px;">
+                                    $PGC comes into existence only when a gold back NFT is melted.
+                                    <br>Once this limited supply utility token is created through that process you might be able to get some on a DEFI exchange.
+                                    <br>You can use $PGC to pay transaction fees for gold NFT redemption, to vote or you can spend it with participating merchants worldwide.
+
+                                </p>
 
 
                                 <div style="margin-top: 30px;display: inline-block;margin-right:40px;">
