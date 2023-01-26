@@ -130,21 +130,25 @@
                 <div class="home-benefits-inner">
                     <div class="home-benefits__img">
 
-                        <iframe width="100%" height="100%" style="padding: 50px;"
-                                src="https://www.youtube.com/embed/jznH9pahDMw" -->
-                            title="Power in Your Pocket" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
-                            picture-in-picture"
-                            allowfullscreen>
-                        </iframe>
+                        <img src="assets/img/temp/home-benefits.png" alt="" style="display: inline-block;width: 100%;opacity: 1;">
+
+<!--                        <img srcset="assets/img/temp/home-app-phones.png 1x, assets/img/temp/home-app-phones@2x.png 2x" src="assets/img/temp/home-app-phones.png" alt="">-->
+                        
+<!--                        <iframe width="100%" height="100%" style="padding: 50px;"-->
+<!--                                src="https://www.youtube.com/embed/jznH9pahDMw" -->-->
+<!--                            title="Power in Your Pocket" frameborder="0"-->
+<!--                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;-->
+<!--                            picture-in-picture"-->
+<!--                            allowfullscreen>-->
+<!--                        </iframe>-->
                     </div>
                     <div class="home-benefits__blocks">
                         <div class="home-benefits__blocks__item"
                              style="background-color: unset !important;padding-left: 0px;">
                             <div class="home-benefits__blocks__item__text">
-                                <h4 class="text-6xl capitalize">How to get <span class="gen-font-gradient">$GPC</span>
+                                <h4 class="text-6xl capitalize">How to get <span class="gen-font-gradient">$PGC</span>
                                 </h4>
-                                <p style="max-width: 700px;">You can buy $GPC on a DEFI exchange, stake it in the Green
+                                <p style="max-width: 700px;">You can buy $PGC on a DEFI exchange, stake it in the Green
                                     Power App to unlock play to earn games, or you can buy Green Miner NFTs and help
                                     build
                                     renewable storage around the world.</p>
@@ -212,7 +216,7 @@
         <!--        </section>-->
 
 
-        <section class="home-app-wrap" style="background-image: url('assets/img/temp/star_background.jpg');">
+        <section class="home-app-wrap" style="display:none;background-image: url('assets/img/temp/star_background.jpg');">
             <div class="home-app gen-width gen-rim white-font">
                 <div class="home-app-inner">
                     <div class="home-app__title">
