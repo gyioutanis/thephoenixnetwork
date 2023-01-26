@@ -80,20 +80,19 @@
                     </a>
                 </div>
 
-<!--                <div class="header__menu">-->
-<!--                    <div class="header__menu__btn">-->
-<!--                        <a href="/mine"><img src="assets/img/img-gpc.svg"-->
-<!--                                                                    alt="Mine GPC"></a>-->
-<!--                    </div>-->
-<!--                </div>-->
+                <div class="header__menu">
+                    <div class="header__menu__btn">
+                        <a href="https://phoenix.pandahausfutbol.com/" target="_blank"><img src="assets/img/img-pgc.svg" alt="Mint a gold backed NFT"></a>
+                    </div>
+                </div>
 
-<!--                <div class="header__burger">-->
-<!--                    <div class="header__burger-inner">-->
-<!--                        <span></span>-->
-<!--                        <span></span>-->
-<!--                        <span></span>-->
-<!--                    </div>-->
-<!--                </div>-->
+                <div class="header__burger">
+                    <div class="header__burger-inner">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
             </div>
         </header>
     </section>

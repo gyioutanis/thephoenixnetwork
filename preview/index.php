@@ -24,21 +24,20 @@
                                     <span class="gen-font-gradient">cryptocurrency</span></h2>
 
                                 <p style="margin-bottom:10px;max-width:700px;">
-                                    The Phoenix Network is a centralized gold network that revives the medieval Knights
+                                    The Phoenix Network is a decentralized Web3 ecosystem that revives the medieval Knights
                                     Templar gold network in a Web3 form.
                                     At its heart, it makes physical gold cool and useful again for zoomers, Millennials
                                     and Generation Alpha.
                                     Phoenix combines the best elements of modern Web3 with the medieval ideas of the
-                                    monks of the Knights Templar and mixes in a utility coin with a fixed supply of 21
-                                    million.
+                                    monks of the Knights Templar and mixes in gold backed NFTs and a utility coin with a fixed supply of 21 million.
                                 </p>
 
 
-<!--                                <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">-->
-<!--                                    <a href="https://thegreenpowerplatform.com/mine/">-->
-<!--                                        <img src="assets/img/img-gpc.svg" style="width: 300px;" alt="Mine GPC">-->
-<!--                                    </a>-->
-<!--                                </div>-->
+                                <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
+                                    <a href="https://phoenix.pandahausfutbol.com/" target="_blank">
+                                        <img src="assets/img/img-pgc.svg" style="width: 300px;" alt="Mint a gold backed NFT">
+                                    </a>
+                                </div>
 
                             </div>
 
@@ -72,6 +71,7 @@
                                 Phoenix has pioneered a <span style="color: #FFB400;">platform for gold backed NFTs</span>,
                                 redeemable for physical gold at independent gold shops worldwide.
                             </p>
+                            <br>
                             <p>
                                 PGC (Phoenix Gold Coin) is the <span style="color: #FFB400;">adopted token</span> of the Phoenix Network which serves as a tool for voting, paying transaction fees and buying things with our network of participating stores and merchants. The only way these tokens come into existence is when you 'melt' your gold NFT in exchange for tokens. There is a limited supply of 21 million.
                             </p>
@@ -133,7 +133,7 @@
                         <img src="assets/img/temp/home-benefits.png" alt="" style="display: inline-block;width: 100%;opacity: 1;">
 
 <!--                        <img srcset="assets/img/temp/home-app-phones.png 1x, assets/img/temp/home-app-phones@2x.png 2x" src="assets/img/temp/home-app-phones.png" alt="">-->
-                        
+
 <!--                        <iframe width="100%" height="100%" style="padding: 50px;"-->
 <!--                                src="https://www.youtube.com/embed/jznH9pahDMw" -->-->
 <!--                            title="Power in Your Pocket" frameborder="0"-->
