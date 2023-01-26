@@ -45,7 +45,7 @@
 
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="mailto:community@thephoenixnetwork.com">community@thephoennixnetwork.com</a></li>
+                            <li><a href="mailto:community@thephoenixnetwork.com">community@thephoenixnetwork.com</a></li>
                         </ul>
                     </div>
 

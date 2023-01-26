@@ -16,27 +16,29 @@
                     <div class="home-intro gen-width gen-rim white-font">
                         <div class="home-intro-inner">
                             <div class="home-intro__text" style="padding-top:110px;max-width: 800px;">
-                                <!--                        <img src="assets/img/logo-tfg.png" alt="">-->
-                                <!--                        <br>-->
                                 <br>
-                                <!--                        <h1>TFA Platform</h1>-->
-                                <h2 style="margin-bottom:10px;" class="text-6xl capitalize">Putting <span
-                                            class="gen-font-gradient">POWER</span><br>in your
-                                    <span class="gen-font-gradient">POCKET</span></h2>
-
-                                <p style="margin-bottom:10px;max-width:700px;">Green Power Coin (GPC) is the adopted token
-                                    of the Green Power
-                                    Platform ecosystem. GPC is needed to access features and functionalities such as NFT
-                                    based green mining, staking and DAO voting. GPC monetizes the potential of the green
-                                    economy in a digital asset.</p>
 
 
-                                <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
-                                    <a href="https://thegreenpowerplatform.com/mine/"><img src="assets/img/img-gpc.svg"
-                                                                                           style="width: 300px;"
-                                                                                           alt="Mine GPC"></a>
-                                </div>
+                                <h2 style="margin-bottom:10px;" class="text-4xl capitalize">a Web3 <span
+                                            class="gen-font-gradient">gold network</span><br>and
+                                    <span class="gen-font-gradient">cryptocurrency</span></h2>
 
+                                <p style="margin-bottom:10px;max-width:700px;">
+                                    The Phoenix Network is a centralized gold network that revives the medieval Knights
+                                    Templar gold network in a Web3 form.
+                                    At its heart, it makes physical gold cool and useful again for zoomers, Millennials
+                                    and Generation Alpha.
+                                    Phoenix combines the best elements of modern Web3 with the medieval ideas of the
+                                    monks of the Knights Templar and mixes in a utility coin with a fixed supply of 21
+                                    million.
+                                </p>
+
+
+<!--                                <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">-->
+<!--                                    <a href="https://thegreenpowerplatform.com/mine/">-->
+<!--                                        <img src="assets/img/img-gpc.svg" style="width: 300px;" alt="Mine GPC">-->
+<!--                                    </a>-->
+<!--                                </div>-->
 
                             </div>
 
@@ -61,14 +63,17 @@
                             </div>
                         </div>
                         <div class="home-app__text">
-                            <p>Together with our partners we're building the foundations for the decentralized future for
-                                local green community.</p>
+                            <p>
+                                Together with our partners we have delivered the foundations for the decentralized future of gold.
+                            </p>
                             <br>
 
                             <p>
-                                GPC is the <span style="color: #FFB400;">adopted token</span> of the Green Power Platform,
-                                and GPC is required by buy NFTs for green mining, to vote in the DAO and to stake to unlock
-                                play to earn games.
+                                Phoenix has pioneered a <span style="color: #FFB400;">platform for gold backed NFTs</span>,
+                                redeemable for physical gold at independent gold shops worldwide.
+                            </p>
+                            <p>
+                                PGC (Phoenix Gold Coin) is the <span style="color: #FFB400;">adopted token</span> of the Phoenix Network which serves as a tool for voting, paying transaction fees and buying things with our network of participating stores and merchants. The only way these tokens come into existence is when you 'melt' your gold NFT in exchange for tokens. There is a limited supply of 21 million.
                             </p>
                         </div>
 
@@ -81,7 +86,8 @@
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;text-align: center;font-weight: bold;">Communication</p>
+                                <p style="font-size: 25px;text-align: center;font-weight: bold;">virtualized physical gold (gold backed NFTs and limited supply PGC utility tokens)
+                                </p>
                             </div>
                         </div>
 
@@ -92,7 +98,8 @@
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;text-align: center;font-weight: bold;">Energy</p>
+                                <p style="font-size: 25px;text-align: center;font-weight: bold;">a network of gold shops where you can redeem your NFT for gold
+                                </p>
                             </div>
                         </div>
 
@@ -104,9 +111,10 @@
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;text-align: center;font-weight: bold;">Commerce</p>
+                                <p style="font-size: 25px;text-align: center;font-weight: bold;">worldwide network of businesses accepting PGC tokens</p>
                             </div>
                         </div>
+
 
 
                     </div>
@@ -122,18 +130,23 @@
                 <div class="home-benefits-inner">
                     <div class="home-benefits__img">
 
-                        <iframe width="100%" height="100%"  style="padding: 50px;" src="https://www.youtube.com/embed/jznH9pahDMw"-->
+                        <iframe width="100%" height="100%" style="padding: 50px;"
+                                src="https://www.youtube.com/embed/jznH9pahDMw" -->
                             title="Power in Your Pocket" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+                            picture-in-picture"
+                            allowfullscreen>
+                        </iframe>
                     </div>
                     <div class="home-benefits__blocks">
                         <div class="home-benefits__blocks__item"
                              style="background-color: unset !important;padding-left: 0px;">
                             <div class="home-benefits__blocks__item__text">
-                                <h4 class="text-6xl capitalize">How to get <span class="gen-font-gradient">$GPC</span></h4>
+                                <h4 class="text-6xl capitalize">How to get <span class="gen-font-gradient">$GPC</span>
+                                </h4>
                                 <p style="max-width: 700px;">You can buy $GPC on a DEFI exchange, stake it in the Green
-                                    Power App to unlock play to earn games, or you can buy Green Miner NFTs and help build
+                                    Power App to unlock play to earn games, or you can buy Green Miner NFTs and help
+                                    build
                                     renewable storage around the world.</p>
 
 
@@ -211,7 +224,8 @@
 
                     <div class="home-app__text">
                         <p>The Green Power App (GPA) enables each local community to have their own social network and
-                            commerce system. A digital asset wallet is automatically enable easy onboarding of people new to
+                            commerce system. A digital asset wallet is automatically enable easy onboarding of people
+                            new to
                             Web3. Play to earn games and NFT green mining are also included within the app.</p>
                     </div>
 
@@ -241,14 +255,17 @@
                 <div class="lg:flex lg:items-center">
                     <div class="w-full space-y-12">
                         <div>
-                            <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">Platform<br> <span
+                            <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">Platform<br>
+                                <span
                                         class="gen-font-gradient">Capabilities</span></h1>
                         </div>
 
                         <div class="mt-3 text-gray-500 dark:text-gray-300">Green Power Platform is now making these
-                            integrated Web3 services available via an API as well as building out further dapps/apps to be
+                            integrated Web3 services available via an API as well as building out further dapps/apps to
+                            be
                             launched into our our base of people around the world who wish empower themselves and their
-                            community with cheaper green energy, locally moderated communication and support for small local
+                            community with cheaper green energy, locally moderated communication and support for small
+                            local
                             businesses.
                         </div>
 
@@ -288,11 +305,15 @@
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
                                                 Green Power Platform makes it easy for non-crypto people to hold and use
                                                 digital assets. The platform enables businesses to accept payment with
-                                                tokens while avoiding volatility associated with crypto through its unique
+                                                tokens while avoiding volatility associated with crypto through its
+                                                unique
                                                 virtual stable coin credit system. Merchants get FIAT credits (Impact
-                                                credits) in the system for sales, then convert those credits to Green Power
-                                                Coins (GPC) at the moment they convert to fiat - so price stays stable. Over
-                                                100 businesses will accept GPC at launch in exchange for goods and services.
+                                                credits) in the system for sales, then convert those credits to Green
+                                                Power
+                                                Coins (GPC) at the moment they convert to fiat - so price stays stable.
+                                                Over
+                                                100 businesses will accept GPC at launch in exchange for goods and
+                                                services.
                                             </p>
                                         </div>
                                     </div>
@@ -311,7 +332,8 @@
                             </span>
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
-                                            <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">GPP
+                                            <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
+                                                GPP
                                                 pay to earn games</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
@@ -325,15 +347,18 @@
                                                     daily and pay out GPC coins to winners
                                                 </li>
                                                 <li class="id-color" style="color: #575757;font-size: 22px;">
-                                                    <strong>Drunken Leprechaun </strong> - a floppy birds style game using
+                                                    <strong>Drunken Leprechaun </strong> - a floppy birds style game
+                                                    using
                                                     beer, points, leprechauns and lightning bolts
                                                 </li>
                                                 <li class="id-color" style="color: #575757;font-size: 22px;"><strong>Midnight
                                                         Madness </strong>
                                                     - a mass multiplayer game that can support millions of simultaneous
                                                     participants. The game happens at midnight in a designated timezone
-                                                    where users must guess a number from 1 - 7 after Midnight. The top few
-                                                    hundred winners are awarded, the winning is usually milliseconds after
+                                                    where users must guess a number from 1 - 7 after Midnight. The top
+                                                    few
+                                                    hundred winners are awarded, the winning is usually milliseconds
+                                                    after
                                                     Midnight.
                                                 </li>
                                                 <li class="id-color" style="color: #575757;font-size: 22px;"><strong>To
@@ -358,16 +383,20 @@
                             </span>
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
-                                            <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">GPP
+                                            <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
+                                                GPP
                                                 DAO capabilities</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                A custom set of DAO smart contracts and voting and management interfaces for
-                                                use by people who wish to help their local community and gain influence and
+                                                A custom set of DAO smart contracts and voting and management interfaces
+                                                for
+                                                use by people who wish to help their local community and gain influence
+                                                and
                                                 benefit from doing so. Content moderation for the Green Power App social
                                                 network will be managed on a local community level via DAO. DAO
                                                 participation on larger platform decisions will be available also.
-                                                Participation in the DAO is proportional to the amount of GPC that is staked
+                                                Participation in the DAO is proportional to the amount of GPC that is
+                                                staked
                                                 or held in wallet.
                                             </p>
                                         </div>
@@ -387,16 +416,22 @@
                             </span>
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
-                                            <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">NFT
+                                            <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
+                                                NFT
                                                 based ownership and mining</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                GPP has its own multi-chain NFT capability for minting NFTs that represent
-                                                ownership in green renewable storage infrastructure as well as a method to
-                                                use NFTs for a process we invented with our partners called green mining.
-                                                Instead of using actual computers that burn dirty energy and output blocks,
+                                                GPP has its own multi-chain NFT capability for minting NFTs that
+                                                represent
+                                                ownership in green renewable storage infrastructure as well as a method
+                                                to
+                                                use NFTs for a process we invented with our partners called green
+                                                mining.
+                                                Instead of using actual computers that burn dirty energy and output
+                                                blocks,
                                                 our green miners use NFTs to create green renewable energy and receive
-                                                rewards for doing so as green energy is output from real world projects to
+                                                rewards for doing so as green energy is output from real world projects
+                                                to
                                                 the grid as determined by our Oracles.
                                             </p>
                                         </div>
@@ -433,7 +468,8 @@
 
                 <div class="home-press__item">
                     <div class="home-press__item__img">
-                        <img src="https://corre.energy/wp-content/uploads/2022/08/newsweek-2-1-500x250_c.jpg" width="560"
+                        <img src="https://corre.energy/wp-content/uploads/2022/08/newsweek-2-1-500x250_c.jpg"
+                             width="560"
                              height="310" alt="">
                     </div>
                     <div class="home-press__item__text">
@@ -467,7 +503,8 @@
                                                                               rel="category tag">Blog</a></span></em>
                         <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
                                     href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Corre
-                                Energy announce ‘Global Collaboration Agreement’ to work together on Long Duration Energy
+                                Energy announce ‘Global Collaboration Agreement’ to work together on Long Duration
+                                Energy
                                 Storage projects</a></h3>
 
                         <a href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Read
@@ -614,7 +651,6 @@
         <!--        --><?php //include('template-parts/gen-twitter.php') ?>
         <!--    </section>-->
     </main>
-
 
 
 <?php include 'footer.php'; ?>
