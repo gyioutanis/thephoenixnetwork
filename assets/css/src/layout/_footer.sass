@@ -1,0 +1,72 @@
+.footer-wrap
+    padding: 100px 0
+    background-color: black
+.footer
+.footer-inner
+    position: relative
+    display: flex
+    justify-content: space-between
+    flex-flow: row wrap
+    padding: 60px 0 0
+    border-top: 1px solid #333
+.footer__logo
+    padding: 0 30px 50px 0
+    a
+        display: flex
+        align-items: center
+        text-decoration: none
+        img
+            padding: 0 10px 0 0
+        p
+            color: #e2e2e0
+            font-size: 20px
+            font-weight: 400
+
+.footer__columns
+    display: flex
+    flex-flow: row wrap
+    margin: -30px -50px
+    padding: 0 0 50px
+.footer__columns__item
+    padding: 30px 50px
+.footer__columns__item__title
+    padding: 0 0 35px
+.footer__columns__item__list
+    li
+        padding: 3px 0
+    a
+        font-size: 18px
+        text-decoration: none
+        &:hover
+            color: $color-green
+
+.footer__copyright
+    width: 50%
+    p
+        color: #333
+        font-size: 18px
+.footer__lang
+    a
+        display: flex
+        align-items: center
+        padding: 7px 10px
+        text-decoration: none
+        border-radius: 5px
+        border: 1px solid #333
+        transition: 0.3s
+        &:hover
+            background-color: #111
+        img
+            width: 20px
+            height: 20px
+            margin: 0 10px 0 0
+        span
+            color: #666
+            font-size: 14px
+
+
+@media (max-width: 640px)
+    .footer-wrap
+        padding: 60px 0
+    .footer__columns__item__title
+        padding: 0 0 15px
