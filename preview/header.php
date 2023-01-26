@@ -82,8 +82,9 @@
 
                 <div class="header__menu">
                     <div class="header__menu__btn">
-                        <a href="https://phoenix.pandahausfutbol.com/" target="_blank"><img src="assets/img/img-pgc.svg" alt="Mint a gold backed NFT"></a>
+                        <a href="https://phoenix.pandahausfutbol.com/" style="display:table;margin: auto;" target="_blank"><img src="assets/img/img-pgc.svg" alt="Mint a gold backed NFT"></a>
                     </div>
+
                 </div>
 
                 <div class="header__burger">
