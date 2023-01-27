@@ -17,7 +17,7 @@
                             src="assets/img/icon-youtube--white.svg" alt=""></a>
             </div>
             <div class="gen-social__item">
-                <a href="#"><img src="assets/img/icon-telegram--white.svg" alt=""></a>
+                <a href="https://t.me/phoenixweb3gold"><img src="assets/img/icon-telegram--white.svg" alt=""></a>
             </div>
             <div class="gen-social__item">
                 <a href="https://twitter.com/PhoenixWeb3Gold"><img src="assets/img/icon-twitter--white.svg" alt=""></a>
