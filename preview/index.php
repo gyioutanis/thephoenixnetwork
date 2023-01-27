@@ -71,14 +71,6 @@
                                         style="color: #FFB400;">platform for gold backed NFTs</span>,
                                 redeemable for physical gold at independent gold shops worldwide.
                             </p>
-                            <br>
-                            <p>
-                                PGC (Phoenix Gold Coin) is the <span style="color: #FFB400;">adopted token</span> of the
-                                Phoenix Network which serves as a tool for voting, paying transaction fees and buying
-                                things with our network of participating stores and merchants. The only way these tokens
-                                come into existence is when you 'melt' your gold NFT in exchange for tokens. There is a
-                                limited supply of 21 million.
-                            </p>
                         </div>
 
 
@@ -118,6 +110,35 @@
                                 <p style="font-size: 25px;font-weight: bold;">worldwide network of businesses accepting
                                     PGC tokens</p>
                             </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section class="gen-color-block home-app-wrap-no-shadow"
+                 style="background-image: url('assets/img/temp/star_background.jpg');padding-top: 40px;">
+            <div class="home-app gen-width gen-rim white-font">
+                <div class="home-app-inner home-press gen-width gen-rim">
+                    <div class="home-press-inner px-6 py-10">
+                        <div class="w-full space-y-12">
+                            <div>
+                                <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">About <span
+                                            class="gen-font-gradient">$PGC</span></h1>
+                            </div>
+                        </div>
+                        <div class="home-app__text" style="margin-bottom: 20px;">
+                            <p>
+                                PGC (Phoenix Gold Coin) is the <span style="color: #FFB400;">adopted token</span> of the
+                                Phoenix Network which serves as a tool for voting, paying transaction fees and buying
+                                things with our network of participating stores and merchants. The only way these tokens
+                                come into existence is when you 'melt' your gold NFT in exchange for tokens. There is a
+                                limited supply of 21 million.
+                            </p>
+
                         </div>
 
 
