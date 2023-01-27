@@ -489,35 +489,7 @@
                     </div>
                 </div>
 
-                <div class="home-press__item">
-                    <div class="home-press__item__img">
-                        <img src="https://images.livemint.com/img/2023/01/13/600x338/gold_1663938443582_1673606857855_1673606857855.jpg"
-                             width="560"
-                             height="310" alt="">
-                    </div>
-                    <div class="home-press__item__text">
-
-                        <em class="post-details element-scheme__faded latest_posts-details">Jan 13, 2023
-                            <span class="latest_posts-details-category">
-                                <a href="https://www.livemint.com/market/commodities/why-gold-prices-have-risen-to-all-time-high-and-do-experts-see-more-gains-ahead-11673604452141.html"
-                                   rel="category tag">
-                                    Livemint.com
-                                </a>
-                            </span>
-                        </em>
-                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
-                            <a href="https://www.livemint.com/market/commodities/why-gold-prices-have-risen-to-all-time-high-and-do-experts-see-more-gains-ahead-11673604452141.html">
-                                Why gold prices have risen to all-time high and do experts see more gains ahead?
-                            </a>
-                        </h3>
-
-                        <a href="https://www.livemint.com/market/commodities/why-gold-prices-have-risen-to-all-time-high-and-do-experts-see-more-gains-ahead-11673604452141.html">
-                            Read more
-                        </a>
-
-                    </div>
-                </div>
-
+                
                 <div class="home-press__item">
                     <div class="home-press__item__img">
                         <img src="https://mintgenie.livemint.com/_next/image?url=https%3A%2F%2Fimages.livemint.com%2Fimg%2F2023%2F01%2F17%2F1260x709%2Fgold_1673950577215_1673975458598_1673975458598.jpg&w=1200&q=100"
