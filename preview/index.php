@@ -126,7 +126,7 @@
                     <div class="home-press-inner px-6 py-10">
                         <div class="w-full space-y-12">
                             <div>
-                                <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">About <span
+                                <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">About<br><span
                                             class="gen-font-gradient">$PGC</span></h1>
                             </div>
                         </div>
