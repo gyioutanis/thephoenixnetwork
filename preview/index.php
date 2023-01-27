@@ -21,18 +21,12 @@
 
                                 <h2 style="margin-bottom:10px;" class="text-6xl capitalize">a Web3 <span
                                             class="gen-font-gradient">gold network</span><br>and
-                                    <span style="line-break:anywhere;" class="gen-font-gradient">cryptocurrency</span>
+                                    <span style="line-break:anywhere;">cryptocurrency</span>
                                 </h2>
 
                                 <p style="margin-bottom:10px;max-width:700px;">
-                                    The Phoenix Network is a decentralized Web3 ecosystem that revives the medieval
-                                    Knights
-                                    Templar gold network in a Web3 form.
-                                    At its heart, it makes physical gold cool and useful again for zoomers, Millennials
-                                    and Generation Alpha.
-                                    Phoenix combines the best elements of modern Web3 with the medieval ideas of the
-                                    monks of the Knights Templar and mixes in gold backed NFTs and a utility coin with a
-                                    fixed supply of 21 million.
+                                    At its heart, the Phoenix Network makes physical gold cool and useful again for zoomers, Millennials and Generation Alpha.
+                                    Phoenix combines the best elements of modern Web3 with the medieval ideas of the monks of the Knights Templar and mixes in gold backed NFTs and a utility coin with a fixed supply of 21 million.
                                 </p>
 
 
@@ -489,7 +483,7 @@
                     </div>
                 </div>
 
-                
+
                 <div class="home-press__item">
                     <div class="home-press__item__img">
                         <img src="https://mintgenie.livemint.com/_next/image?url=https%3A%2F%2Fimages.livemint.com%2Fimg%2F2023%2F01%2F17%2F1260x709%2Fgold_1673950577215_1673975458598_1673975458598.jpg&w=1200&q=100"

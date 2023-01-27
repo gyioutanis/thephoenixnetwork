@@ -3,30 +3,30 @@
         <section class="gen-title gen-title--center">
             <div class="gen-title-inner">
                 <h2 class="text-6xl font-semibold text-gray-800 capitalize">Follow the <span class="gen-font-gradient">Journey</span></h2>
-                <p>Follow us on social media and join to fast growing TFA social network.</p>
+                <p>Follow us on social media and join to fast growing Phoenix network.</p>
             </div>
         </section>
 
         <section class="gen-social">
             <div class="gen-social__item">
-                <a href="#"><img src="assets/img/icon-linkedin--white.svg"
+                <a href="https://www.linkedin.com/company/phoenix-web3-gold-network/"><img src="assets/img/icon-linkedin--white.svg"
                                                                             alt=""></a>
             </div>
             <div class="gen-social__item">
-                <a href="#"><img
+                <a href="https://www.youtube.com/channel/UCF6YoiHyo7VSWv_o6aVhNdw"><img
                             src="assets/img/icon-youtube--white.svg" alt=""></a>
             </div>
             <div class="gen-social__item">
                 <a href="#"><img src="assets/img/icon-telegram--white.svg" alt=""></a>
             </div>
-<!--            <div class="gen-social__item">-->
-<!--                <a href="https://twitter.com/TheFutbolCoin"><img src="assets/img/icon-twitter--white.svg" alt=""></a>-->
-<!--            </div>-->
             <div class="gen-social__item">
-                <a href="#"><img src="assets/img/icon-facebook--white.svg" alt=""></a>
+                <a href="https://twitter.com/PhoenixWeb3Gold"><img src="assets/img/icon-twitter--white.svg" alt=""></a>
             </div>
             <div class="gen-social__item">
-                <a href="#"><img src="assets/img/icon-instagram--white.svg"
+                <a href="https://www.facebook.com/profile.php?id=100089400746577"><img src="assets/img/icon-facebook--white.svg" alt=""></a>
+            </div>
+            <div class="gen-social__item">
+                <a href="http://instagram.com/phoenixweb3gold"><img src="assets/img/icon-instagram--white.svg"
                                                                     alt=""></a>
             </div>
         </section>
