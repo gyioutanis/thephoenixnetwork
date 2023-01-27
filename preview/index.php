@@ -20,8 +20,7 @@
 
 
                                 <h2 style="margin-bottom:10px;" class="text-6xl capitalize">a Web3 <span
-                                            class="gen-font-gradient">gold network</span><br>and
-                                    <span style="line-break:anywhere;">cryptocurrency</span>
+                                            class="gen-font-gradient">gold network</span>
                                 </h2>
 
                                 <p style="margin-bottom:10px;max-width:700px;">
