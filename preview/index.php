@@ -609,11 +609,11 @@
                             </div>
 
                             <div class="home-achievements__partners__logos__item">
-                                <a href="https://corre.energy/">
+                                <a href="#">
                                     <div class="home-achievements__partners__logos__item__img">
-                                        <img src="assets/img/temp/corre_energy_logo.png" alt="">
+                                        <img src="assets/img/temp/quantum_gold_fund.png" alt="">
                                     </div>
-                                    <p>CorreEnergy</p>
+                                    <p>QUANTUM GOLD FUND B.V.</p>
                                 </a>
                             </div>
 
@@ -627,14 +627,6 @@
                                 </a>
                             </div>
 
-                            <div class="home-achievements__partners__logos__item">
-                                <a href="https://pandasea.io/">
-                                    <div class="home-achievements__partners__logos__item__img">
-                                        <img src="assets/img/temp/pandasea_logo.png" alt="">
-                                    </div>
-                                    <p>PandaSea</p>
-                                </a>
-                            </div>
                         </div>
                     </div>
                 </div>

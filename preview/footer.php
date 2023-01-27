@@ -45,7 +45,7 @@
 
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="mailto:community@thephoenixnetwork.com">community@thephoenixnetwork.com</a></li>
+                            <li><a href="mailto:community@phoenixgoldnetwork.com">community@phoenixgoldnetwork.com</a></li>
                         </ul>
                     </div>
 
@@ -60,7 +60,7 @@
                         <ul>
                             <li><a href="#about">About Us</a></li>
                             <li><a href="team.php">Team</a></li>
-                            <li><a href="mailto:partner@thephoenixnetwork.com">Partner</a></li>
+                            <li><a href="#">Whitepaper</a></li>
                         </ul>
                     </div>
                 </div>
@@ -71,8 +71,8 @@
                     </div>
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="mailto:list@thethephoenixnetwork.com">Accept PGC at your business</a></li>
-                            <li><a href="#">Apply for a grant</a></li>
+                            <li><a href="mailto:list@phoenixgoldnetwork.com">Accept PGC at your business</a></li>
+                            <li><a href="#">Partner with us</a></li>
                             <li><a href="#">Build PGC community</a></li>
                         </ul>
                     </div>
@@ -95,7 +95,7 @@
                 </div>
             </div>
             <div class="footer__copyright">
-                <p>Copyright ©2022 The Phoenix Network All Rights Reserved</p>
+                <p>Copyright ©2023 The Phoenix Network All Rights Reserved</p>
             </div>
 
             <div class="footer__lang">
