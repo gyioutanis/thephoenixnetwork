@@ -21,21 +21,25 @@
 
                                 <h2 style="margin-bottom:10px;" class="text-6xl capitalize">a Web3 <span
                                             class="gen-font-gradient">gold network</span><br>and
-                                    <span style="line-break:anywhere;" class="gen-font-gradient">cryptocurrency</span></h2>
+                                    <span style="line-break:anywhere;" class="gen-font-gradient">cryptocurrency</span>
+                                </h2>
 
                                 <p style="margin-bottom:10px;max-width:700px;">
-                                    The Phoenix Network is a decentralized Web3 ecosystem that revives the medieval Knights
+                                    The Phoenix Network is a decentralized Web3 ecosystem that revives the medieval
+                                    Knights
                                     Templar gold network in a Web3 form.
                                     At its heart, it makes physical gold cool and useful again for zoomers, Millennials
                                     and Generation Alpha.
                                     Phoenix combines the best elements of modern Web3 with the medieval ideas of the
-                                    monks of the Knights Templar and mixes in gold backed NFTs and a utility coin with a fixed supply of 21 million.
+                                    monks of the Knights Templar and mixes in gold backed NFTs and a utility coin with a
+                                    fixed supply of 21 million.
                                 </p>
 
 
                                 <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
                                     <a href="https://phoenix.pandahausfutbol.com/" target="_blank">
-                                        <img src="assets/img/img-pgc.svg" style="width: 300px;" alt="Mint a gold backed NFT">
+                                        <img src="assets/img/img-pgc.svg" style="width: 300px;"
+                                             alt="Mint a gold backed NFT">
                                     </a>
                                 </div>
 
@@ -63,53 +67,64 @@
                         </div>
                         <div class="home-app__text" style="margin-bottom: 20px;">
                             <p>
-                                Together with our partners we have delivered the foundations for the decentralized future of gold.
+                                Together with our partners we have delivered the foundations for the decentralized
+                                future of gold.
                             </p>
                             <br>
 
                             <p>
-                                Phoenix has pioneered a <span style="color: #FFB400;">platform for gold backed NFTs</span>,
+                                Phoenix has pioneered a <span
+                                        style="color: #FFB400;">platform for gold backed NFTs</span>,
                                 redeemable for physical gold at independent gold shops worldwide.
                             </p>
                             <br>
                             <p>
-                                PGC (Phoenix Gold Coin) is the <span style="color: #FFB400;">adopted token</span> of the Phoenix Network which serves as a tool for voting, paying transaction fees and buying things with our network of participating stores and merchants. The only way these tokens come into existence is when you 'melt' your gold NFT in exchange for tokens. There is a limited supply of 21 million.
+                                PGC (Phoenix Gold Coin) is the <span style="color: #FFB400;">adopted token</span> of the
+                                Phoenix Network which serves as a tool for voting, paying transaction fees and buying
+                                things with our network of participating stores and merchants. The only way these tokens
+                                come into existence is when you 'melt' your gold NFT in exchange for tokens. There is a
+                                limited supply of 21 million.
                             </p>
                         </div>
 
 
-                        <div class="home-press__item_3 gen-font-gradient_bottom" >
-                            <div class="home-press__item__img" style="-webkit-box-shadow:none; box-shadow: none;padding-bottom: 45%;border-radius: 0px;">
+                        <div class="home-press__item_3 gen-font-gradient_bottom">
+                            <div class="home-press__item__img"
+                                 style="-webkit-box-shadow:none; box-shadow: none;padding-bottom: 45%;border-radius: 0px;">
                                 <img src="assets/img/img-pgc-nfts.svg" style="width: 100px;height: 100px;" alt="">
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;font-weight: bold;">virtualized physical gold (gold backed NFTs and limited supply PGC utility tokens)
+                                <p style="font-size: 25px;font-weight: bold;">virtualized physical gold (gold backed
+                                    NFTs and limited supply PGC utility tokens)
                                 </p>
                             </div>
                         </div>
 
-                        <div class="home-press__item_3 gen-font-gradient_bottom" >
-                            <div class="home-press__item__img" style="-webkit-box-shadow:none; box-shadow: none;padding-bottom: 45%;border-radius: 0px;">
+                        <div class="home-press__item_3 gen-font-gradient_bottom">
+                            <div class="home-press__item__img"
+                                 style="-webkit-box-shadow:none; box-shadow: none;padding-bottom: 45%;border-radius: 0px;">
                                 <img src="assets/img/img-pgc-shops.svg" style="width: 100px;height: 100px;" alt="">
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;font-weight: bold;">a network of gold shops where you can redeem your NFT for gold
+                                <p style="font-size: 25px;font-weight: bold;">a network of gold shops where you can
+                                    redeem your NFT for gold
                                 </p>
                             </div>
                         </div>
 
-                        <div class="home-press__item_3 gen-font-gradient_bottom" >
-                            <div class="home-press__item__img" style="-webkit-box-shadow:none; box-shadow: none;padding-bottom: 45%;border-radius: 0px;">
+                        <div class="home-press__item_3 gen-font-gradient_bottom">
+                            <div class="home-press__item__img"
+                                 style="-webkit-box-shadow:none; box-shadow: none;padding-bottom: 45%;border-radius: 0px;">
                                 <img src="assets/img/img-pgc_network.svg" style="width: 100px;height: 100px;" alt="">
                             </div>
-                            <div class="home-press__item__text" >
+                            <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;font-weight: bold;">worldwide network of businesses accepting PGC tokens</p>
+                                <p style="font-size: 25px;font-weight: bold;">worldwide network of businesses accepting
+                                    PGC tokens</p>
                             </div>
                         </div>
-
 
 
                     </div>
@@ -125,17 +140,18 @@
                 <div class="home-benefits-inner">
                     <div class="home-benefits__img">
 
-                        <img src="assets/img/temp/home-benefits.png" alt="" style="display: inline-block;width: 100%;opacity: 1;">
+                        <img src="assets/img/temp/home-benefits.png" alt=""
+                             style="display: inline-block;width: 100%;opacity: 1;">
 
-<!--                        <img srcset="assets/img/temp/home-app-phones.png 1x, assets/img/temp/home-app-phones@2x.png 2x" src="assets/img/temp/home-app-phones.png" alt="">-->
+                        <!--                        <img srcset="assets/img/temp/home-app-phones.png 1x, assets/img/temp/home-app-phones@2x.png 2x" src="assets/img/temp/home-app-phones.png" alt="">-->
 
-<!--                        <iframe width="100%" height="100%" style="padding: 50px;"-->
-<!--                                src="https://www.youtube.com/embed/jznH9pahDMw" -->-->
-<!--                            title="Power in Your Pocket" frameborder="0"-->
-<!--                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;-->
-<!--                            picture-in-picture"-->
-<!--                            allowfullscreen>-->
-<!--                        </iframe>-->
+                        <!--                        <iframe width="100%" height="100%" style="padding: 50px;"-->
+                        <!--                                src="https://www.youtube.com/embed/jznH9pahDMw" -->-->
+                        <!--                            title="Power in Your Pocket" frameborder="0"-->
+                        <!--                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;-->
+                        <!--                            picture-in-picture"-->
+                        <!--                            allowfullscreen>-->
+                        <!--                        </iframe>-->
                     </div>
                     <div class="home-benefits__blocks">
                         <div class="home-benefits__blocks__item"
@@ -145,8 +161,10 @@
                                 </h4>
                                 <p style="max-width: 700px;">
                                     $PGC comes into existence only when a gold back NFT is melted.
-                                    <br>Once this limited supply utility token is created through that process you might be able to get some on a DEFI exchange.
-                                    <br>You can use $PGC to pay transaction fees for gold NFT redemption, to vote or you can spend it with participating merchants worldwide.
+                                    <br>Once this limited supply utility token is created through that process you might
+                                    be able to get some on a DEFI exchange.
+                                    <br>You can use $PGC to pay transaction fees for gold NFT redemption, to vote or you
+                                    can spend it with participating merchants worldwide.
 
                                 </p>
 
@@ -213,7 +231,8 @@
         <!--        </section>-->
 
 
-        <section class="home-app-wrap" style="display:none;background-image: url('assets/img/temp/star_background.jpg');">
+        <section class="home-app-wrap"
+                 style="display:none;background-image: url('assets/img/temp/star_background.jpg');">
             <div class="home-app gen-width gen-rim white-font">
                 <div class="home-app-inner">
                     <div class="home-app__title">
@@ -261,26 +280,23 @@
                                         class="gen-font-gradient">Capabilities</span></h1>
                         </div>
 
-                        <div class="mt-3 text-gray-500 dark:text-gray-300">Green Power Platform is now making these
-                            integrated Web3 services available via an API as well as building out further dapps/apps to
-                            be
-                            launched into our our base of people around the world who wish empower themselves and their
-                            community with cheaper green energy, locally moderated communication and support for small
-                            local
-                            businesses.
+                        <div class="mt-3 text-gray-500 dark:text-gray-300">
+                            Our technology platform was built over years.
+                            <br>
+                            It enables us to build out further dapps/apps to be launched into our base of gold backed
+                            NFT buyers around the world who wish to enjoy the benefits of gold alongside the benefits of
+                            Web3.
                         </div>
 
                         <div class="de_tab tab_simple tabs" style="background-size: cover;">
 
                             <ul class="col-md-12 de_nav">
 
-                                <li class="active tab-gra">GPA wallet and pay system
+                                <li class="active tab-gra" style="cursor: pointer;">PGC wallet and pay system
                                 </li>
-                                <li class="tab-gra">GPP pay to earn games
+                                <li class="tab-gra" style="cursor: pointer;">PGC DAO capabilities
                                 </li>
-                                <li class="tab-gra">GPP DAO capabilities
-                                </li>
-                                <li class="tab-gra">NFT based ownership and mining
+                                <li class="tab-gra" style="cursor: pointer;">NFT based gold marketplace
                                 </li>
 
                             </ul>
@@ -301,24 +317,18 @@
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
                                             <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                GPA wallet and pay system</h1>
+                                                PGC wallet and pay system</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                Green Power Platform makes it easy for non-crypto people to hold and use
-                                                digital assets. The platform enables businesses to accept payment with
-                                                tokens while avoiding volatility associated with crypto through its
-                                                unique
-                                                virtual stable coin credit system. Merchants get FIAT credits (Impact
-                                                credits) in the system for sales, then convert those credits to Green
-                                                Power
-                                                Coins (GPC) at the moment they convert to fiat - so price stays stable.
-                                                Over
-                                                100 businesses will accept GPC at launch in exchange for goods and
-                                                services.
+                                                Our technology platform makes it easy for non-crypto people to hold and use digital assets and NFTs and to use them to vote,
+                                                to buy things and to redeem their NFTs for physical gold at shops.
+                                                <br>
+                                                The platform enables businesses to attract new customers into their shops ands accept payment with tokens.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
+
 
                                 <div class="tab-2" style="background-size: cover;">
                                     <div class="md:flex md:items-start md:-mx-4">
@@ -334,38 +344,15 @@
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
                                             <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                GPP
-                                                pay to earn games</h1>
+                                                PGC
+                                                DAO capabilities</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                GPP with its partners offers some popular games that give GPC rewards
-                                                including:
-
-
-                                            <ul class="id-color" style="color: #575757;font-size: 22px;">
-                                                <li class="id-color" style="color: #575757;font-size: 22px;">
-                                                    <strong>Trivia </strong> - local community trivia contests that run
-                                                    daily and pay out GPC coins to winners
-                                                </li>
-                                                <li class="id-color" style="color: #575757;font-size: 22px;">
-                                                    <strong>Drunken Leprechaun </strong> - a floppy birds style game
-                                                    using
-                                                    beer, points, leprechauns and lightning bolts
-                                                </li>
-                                                <li class="id-color" style="color: #575757;font-size: 22px;"><strong>Midnight
-                                                        Madness </strong>
-                                                    - a mass multiplayer game that can support millions of simultaneous
-                                                    participants. The game happens at midnight in a designated timezone
-                                                    where users must guess a number from 1 - 7 after Midnight. The top
-                                                    few
-                                                    hundred winners are awarded, the winning is usually milliseconds
-                                                    after
-                                                    Midnight.
-                                                </li>
-                                                <li class="id-color" style="color: #575757;font-size: 22px;"><strong>To
-                                                        participate, players must have staked GPC</strong>
-                                                </li>
-                                            </ul>
+                                                A custom set of DAO smart contracts and voting and management interfaces for use by people who wish to help their local community and gain influence and benefit from doing so.
+                                                <br>
+                                                DAO participation can vote on admitting or banishing certain partners in the ecosystem as well as influence on larger platform decisions.
+                                                <br>
+                                                Participation in the DAO is proportional to the amount of PGC that is staked or held in wallet.
                                             </p>
                                         </div>
                                     </div>
@@ -385,55 +372,13 @@
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
                                             <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                GPP
-                                                DAO capabilities</h1>
+                                                NFT based gold marketplace
+                                            </h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                A custom set of DAO smart contracts and voting and management interfaces
-                                                for
-                                                use by people who wish to help their local community and gain influence
-                                                and
-                                                benefit from doing so. Content moderation for the Green Power App social
-                                                network will be managed on a local community level via DAO. DAO
-                                                participation on larger platform decisions will be available also.
-                                                Participation in the DAO is proportional to the amount of GPC that is
-                                                staked
-                                                or held in wallet.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="tab-4" style="background-size: cover;">
-                                    <div class="md:flex md:items-start md:-mx-4">
-                            <span class="inline-block p-2 text-blue-500 bg-blue-100 rounded-xl md:mx-4 dark:text-white dark:bg-blue-500">
-                                <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24"
-                                     stroke="currentColor">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                          d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z"/>
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                          d="M9.879 16.121A3 3 0 1012.015 11L11 14H9c0 .768.293 1.536.879 2.121z"/>
-                                </svg>
-                            </span>
-
-                                        <div class="mt-4 md:mx-4 md:mt-0">
-                                            <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                NFT
-                                                based ownership and mining</h1>
-
-                                            <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                GPP has its own multi-chain NFT capability for minting NFTs that
-                                                represent
-                                                ownership in green renewable storage infrastructure as well as a method
-                                                to
-                                                use NFTs for a process we invented with our partners called green
-                                                mining.
-                                                Instead of using actual computers that burn dirty energy and output
-                                                blocks,
-                                                our green miners use NFTs to create green renewable energy and receive
-                                                rewards for doing so as green energy is output from real world projects
-                                                to
-                                                the grid as determined by our Oracles.
+                                                The Phoenix Network has a built in NFT marketplace enabling our users to buy and sell their gold backed NFTs to the audience that cares about gold.
+                                                <br>
+                                                This helps make gold more useful by giving the holder more potential to sell on demand, as well as discovering the value of the art the NFT is based on.
                                             </p>
                                         </div>
                                     </div>
@@ -452,107 +397,156 @@
             <div class="home-press-inner px-6 py-10">
                 <div class="w-full space-y-12">
                     <div>
-                        <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">GPA<br> <span
+                        <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">PGC<br> <span
                                     class="gen-font-gradient">News</span></h1>
                     </div>
                 </div>
-                <!--                <div class="home-press__item">-->
-                <!--                    <div class="home-press__item__img">-->
-                <!--                        <img src="assets/img/temp/home-press-2.jpg" alt="">-->
-                <!--                    </div>-->
-                <!--                    <div class="home-press__item__text">-->
-                <!--                        <p>The GPC token ecosystem decentralises with the goal of becoming the Bitcoin of football</p>-->
-                <!--                        <a href="https://www.investing.com/news/cryptocurrency-news/the-GPC-token-ecosystem-decentralises-with-the-goal-of-becoming-the-bitcoin-of-football-2531337">Read-->
-                <!--                            more</a>-->
-                <!--                    </div>-->
-                <!--                </div>-->
 
                 <div class="home-press__item">
                     <div class="home-press__item__img">
-                        <img src="https://corre.energy/wp-content/uploads/2022/08/newsweek-2-1-500x250_c.jpg"
+                        <img src="https://image.cnbcfm.com/api/v1/image/106977171-1637201942206-gettyimages-94878007-pdir1024PHi_j0249JPG.jpeg?v=1673349138&w=740&h=416&ffmt=webp&vtcrop=y"
                              width="560"
                              height="310" alt="">
                     </div>
                     <div class="home-press__item__text">
 
-                        <em class="post-details element-scheme__faded latest_posts-details">02 August 2022
-                            <span class="latest_posts-details-date"></span>
-                            <span class="latest_posts-details-author">By Corre Energy</span>
-                            <span class="latest_posts-details-category">in
-                            <a href="https://corre.energy/category/blog/" rel="category tag">Blog</a>
-                        </span></em>
-                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
-                                    href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Corre
-                                Energy playing a role in driving Ireland’s economic growth – Newsweek</a></h3>
+                        <em class="post-details element-scheme__faded latest_posts-details">Jan 10, 2023
+                            <span class="latest_posts-details-category">
+                                <a href="https://www.cnbc.com/2023/01/10/gold-trades-near-8-month-high-and-analysts-expect-its-rise-to-continue.html"
+                                   rel="category tag">
+                                    CNBC
+                                </a>
+                            </span>
+                        </em>
+                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
+                            <a href="https://www.cnbc.com/2023/01/10/gold-trades-near-8-month-high-and-analysts-expect-its-rise-to-continue.html">
+                                Gold trades near 8-month high and analysts expect its rise to continue
+                            </a>
+                        </h3>
 
-                        <a href="https://corre.energy/2022/08/02/corre-energy-playing-a-role-in-driving-irelands-economic-growth-newsweek/">Read
-                            more</a>
+                        <a href="https://www.cnbc.com/2023/01/10/gold-trades-near-8-month-high-and-analysts-expect-its-rise-to-continue.html">
+                            Read more
+                        </a>
 
                     </div>
                 </div>
 
-                <div class="home-press__item">
-                    <div class="home-press__item__img">
-                        <img src="https://corre.energy/wp-content/uploads/2022/06/Siemens-Energy-Post-6-500x250_c.jpg"
-                             width="560" height="310" alt="">
-                    </div>
-                    <div class="home-press__item__text">
-
-                        <em class="post-details element-scheme__faded latest_posts-details">06 June 2022<span
-                                    class="latest_posts-details-date"></span> <span class="latest_posts-details-author">By Corre Energy</span>
-                            <span class="latest_posts-details-category">in <a href="https://corre.energy/category/blog/"
-                                                                              rel="category tag">Blog</a></span></em>
-                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
-                                    href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Corre
-                                Energy announce ‘Global Collaboration Agreement’ to work together on Long Duration
-                                Energy
-                                Storage projects</a></h3>
-
-                        <a href="https://corre.energy/2022/06/06/corre-energy-announce-global-collaboration-agreement-to-work-together-on-long-duration-energy-storage-projects/">Read
-                            more</a>
-                    </div>
-                </div>
 
                 <div class="home-press__item">
                     <div class="home-press__item__img">
-                        <img src="https://corre.energy/wp-content/uploads/2022/05/ce-thumb-500x250_c.jpg" width="560"
+                        <img src="https://www.nasdaq.com/sites/acquia.prod/files/styles/1370x700/public/etf_trends/Screenshot-2022-12-16-091501-440x250.png?1674804089506373050"
+                             width="560"
                              height="310" alt="">
                     </div>
                     <div class="home-press__item__text">
 
-                        <em class="post-details element-scheme__faded latest_posts-details">25 May 2022<span
-                                    class="latest_posts-details-date"></span> <span class="latest_posts-details-author">By Corre Energy</span>
-                            <span class="latest_posts-details-category">in <a href="https://corre.energy/category/blog/"
-                                                                              rel="category tag">Blog</a></span></em>
-                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
-                                    href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Corre
-                                Energy raises €10.9 million and accelerates growth plans</a></h3>
-                        <a href="https://corre.energy/2022/05/25/corre-energy-raises-e10-9-million-and-accelerates-growth-plans/">Read
-                            more</a>
+                        <em class="post-details element-scheme__faded latest_posts-details">Dec 17, 2022
+                            <span class="latest_posts-details-category">
+                                <a href="https://www.nasdaq.com/articles/gold-has-the-potential-to-hit-%243000-or-%244000-an-ounce-in-2023"
+                                   rel="category tag">
+                                    Nasdaq
+                                </a>
+                            </span>
+                        </em>
+                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
+                            <a href="https://www.nasdaq.com/articles/gold-has-the-potential-to-hit-%243000-or-%244000-an-ounce-in-2023">
+                                Gold Has The Potential To Hit $3,000 Or $4,000 An Ounce In 2023
+                            </a>
+                        </h3>
+
+                        <a href="https://www.nasdaq.com/articles/gold-has-the-potential-to-hit-%243000-or-%244000-an-ounce-in-2023">
+                            Read more
+                        </a>
+
                     </div>
                 </div>
 
                 <div class="home-press__item">
                     <div class="home-press__item__img">
-                        <img src="https://corre.energy/wp-content/uploads/2022/04/CE-Geostock-Image-500x250_c.jpg"
-                             width="560" height="310" alt="">
+                        <img src="http://news.am/img/news/73/65/35/default.jpg"
+                             width="560"
+                             height="310" alt="">
                     </div>
                     <div class="home-press__item__text">
 
-                        <em class="post-details element-scheme__faded latest_posts-details">03 May 2022<span
-                                    class="latest_posts-details-date"></span> <span class="latest_posts-details-author">By Corre Energy</span>
-                            <span class="latest_posts-details-category">in <a href="https://corre.energy/category/blog/"
-                                                                              rel="category tag">Blog</a></span></em>
+                        <em class="post-details element-scheme__faded latest_posts-details">Dec 22, 2022
+                            <span class="latest_posts-details-category">
+                                <a href="https://news.am/eng/news/736535.html" rel="category tag">
+                                    News.am
+                                </a>
+                            </span>
+                        </em>
+                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
+                            <a href="https://news.am/eng/news/736535.html">
+                                Gold prices may rise to $4,000 an ounce in 2023
+                            </a>
+                        </h3>
 
-                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline"><a
-                                    href="https://corre.energy/2022/05/03/corre-energy-and-geostock-sign-10-year-collaboration-agreement/">Corre
-                                Energy and Geostock sign 10-year collaboration agreement</a></h3>
-                        <a href="https://corre.energy/2022/05/03/corre-energy-and-geostock-sign-10-year-collaboration-agreement/">Read
-                            more</a>
+                        <a href="https://news.am/eng/news/736535.html">
+                            Read more
+                        </a>
+
                     </div>
-
-
                 </div>
+
+                <div class="home-press__item">
+                    <div class="home-press__item__img">
+                        <img src="https://images.livemint.com/img/2023/01/13/600x338/gold_1663938443582_1673606857855_1673606857855.jpg"
+                             width="560"
+                             height="310" alt="">
+                    </div>
+                    <div class="home-press__item__text">
+
+                        <em class="post-details element-scheme__faded latest_posts-details">Jan 13, 2023
+                            <span class="latest_posts-details-category">
+                                <a href="https://www.livemint.com/market/commodities/why-gold-prices-have-risen-to-all-time-high-and-do-experts-see-more-gains-ahead-11673604452141.html"
+                                   rel="category tag">
+                                    Livemint.com
+                                </a>
+                            </span>
+                        </em>
+                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
+                            <a href="https://www.livemint.com/market/commodities/why-gold-prices-have-risen-to-all-time-high-and-do-experts-see-more-gains-ahead-11673604452141.html">
+                                Why gold prices have risen to all-time high and do experts see more gains ahead?
+                            </a>
+                        </h3>
+
+                        <a href="https://www.livemint.com/market/commodities/why-gold-prices-have-risen-to-all-time-high-and-do-experts-see-more-gains-ahead-11673604452141.html">
+                            Read more
+                        </a>
+
+                    </div>
+                </div>
+
+                <div class="home-press__item">
+                    <div class="home-press__item__img">
+                        <img src="https://mintgenie.livemint.com/_next/image?url=https%3A%2F%2Fimages.livemint.com%2Fimg%2F2023%2F01%2F17%2F1260x709%2Fgold_1673950577215_1673975458598_1673975458598.jpg&w=1200&q=100"
+                             width="560"
+                             height="310" alt="">
+                    </div>
+                    <div class="home-press__item__text">
+
+                        <em class="post-details element-scheme__faded latest_posts-details">Jan 22, 2023
+                            <span class="latest_posts-details-category">
+                                <a href="https://mintgenie.livemint.com/news/personal-finance/gold-hits-all-time-high-should-you-buy-now-6-experts-weigh-in-151673975431196"
+                                   rel="category tag">
+                                    Mint genie
+                                </a>
+                            </span>
+                        </em>
+                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
+                            <a href="https://mintgenie.livemint.com/news/personal-finance/gold-hits-all-time-high-should-you-buy-now-6-experts-weigh-in-151673975431196">
+                                Gold hits all-time high, should you buy now? 6 experts weigh in
+                            </a>
+                        </h3>
+
+                        <a href="https://mintgenie.livemint.com/news/personal-finance/gold-hits-all-time-high-should-you-buy-now-6-experts-weigh-in-151673975431196">
+                            Read more
+                        </a>
+
+                    </div>
+                </div>
+
         </section>
 
 
