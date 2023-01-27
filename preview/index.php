@@ -463,7 +463,7 @@
 
                 <div class="home-press__item">
                     <div class="home-press__item__img">
-                        <img src="http://news.am/img/news/73/65/35/default.jpg"
+                        <img src="https://guardian.ng/wp-content/uploads/2022/11/Gold-bars-1424x802.jpg"
                              width="560"
                              height="310" alt="">
                     </div>
