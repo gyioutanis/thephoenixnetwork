@@ -25,14 +25,14 @@
 
                                 <p style="margin-bottom:10px;max-width:700px;">
                                     At its heart, the Phoenix Network makes physical gold cool and useful again for zoomers, Millennials and Generation Alpha.
-                                    Phoenix combines the best elements of modern Web3 with the medieval ideas of the monks of the Knights Templar and mixes in gold backed NFTs and a utility coin with a fixed supply of 21 million.
+                                    Phoenix combines the best elements of modern Web3 with the medieval ideas of the monks of the Knights Templar and mixes in gold based NFTs and a utility coin with a fixed supply of 21 million.
                                 </p>
 
 
                                 <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
                                     <a href="https://phoenix.pandahausfutbol.com/" target="_blank">
-                                        <img src="assets/img/img-pgc.svg" style="width: 300px;"
-                                             alt="Mint a gold backed NFT">
+                                        <img src="assets/img/img-pgc_based.svg" style="width: 300px;"
+                                             alt="Mint a gold based NFT">
                                     </a>
                                 </div>
 
@@ -67,7 +67,7 @@
 
                             <p>
                                 Phoenix has pioneered a <span
-                                        style="color: #FFB400;">platform for gold backed NFTs</span>,
+                                        style="color: #FFB400;">platform for gold based NFTs</span>,
                                 redeemable for physical gold at independent gold shops worldwide.
                             </p>
                         </div>
@@ -80,7 +80,7 @@
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;font-weight: bold;">virtualized physical gold (gold backed
+                                <p style="font-size: 25px;font-weight: bold;">virtualized physical gold (gold based
                                     NFTs and limited supply PGC utility tokens)
                                 </p>
                             </div>
@@ -297,7 +297,7 @@
                         <div class="mt-3 text-gray-500 dark:text-gray-300">
                             Our technology platform was built over years.
                             <br>
-                            It enables us to build out further dapps/apps to be launched into our base of gold backed
+                            It enables us to build out further dapps/apps to be launched into our base of gold based
                             NFT buyers around the world who wish to enjoy the benefits of gold alongside the benefits of
                             Web3.
                         </div>
@@ -390,7 +390,7 @@
                                             </h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                The Phoenix Network has a built in NFT marketplace enabling our users to buy and sell their gold backed NFTs to the audience that cares about gold.
+                                                The Phoenix Network has a built in NFT marketplace enabling our users to buy and sell their gold based NFTs to the audience that cares about gold.
                                                 <br>
                                                 This helps make gold more useful by giving the holder more potential to sell on demand, as well as discovering the value of the art the NFT is based on.
                                             </p>
