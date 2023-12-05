@@ -5,11 +5,11 @@
         <section>
 
             <div style="background-image: url('assets/img/temp/star_background.jpg'); width: 100%;height: auto;overflow: hidden;position: relative;background-color: #000;">
-<!--                <video style="min-width: 100%;min-height: 100%;position: absolute;top: 30%;left: 50%;transform: translateX(-50%) translateY(-50%);"-->
-<!--                       autoplay muted loop id="myVideo">-->
-<!--                    <source src="assets/img/video.mp4" type="video/mp4">-->
-<!--                    Your browser does not support HTML5 video.-->
-<!--                </video>-->
+                <!--                <video style="min-width: 100%;min-height: 100%;position: absolute;top: 30%;left: 50%;transform: translateX(-50%) translateY(-50%);"-->
+                <!--                       autoplay muted loop id="myVideo">-->
+                <!--                    <source src="assets/img/video.mp4" type="video/mp4">-->
+                <!--                    Your browser does not support HTML5 video.-->
+                <!--                </video>-->
                 <div class="home-intro-wrap-no-shadow"
                      style="z-index: 1;  position: relative; color: #dc0000; padding: 10px;">
 
@@ -19,22 +19,32 @@
                                 <br>
 
 
-                                <h2 style="margin-bottom:10px;" class="text-6xl capitalize">a Web3 <span
-                                            class="gen-font-gradient">gold network</span>
+                                <h2 style="margin-bottom:10px;" class="text-6xl capitalize"><span
+                                            style="">Decentralized</span> <span
+                                            class="gen-font-gradient">Gold Custody</span>
                                 </h2>
 
                                 <p style="margin-bottom:10px;max-width:700px;">
-                                    At its heart, the Phoenix Network makes physical gold cool and useful again for zoomers, Millennials and Generation Alpha.
-                                    Phoenix combines the best elements of modern Web3 with the medieval ideas of the monks of the Knights Templar and mixes in gold based NFTs and a utility coin with a fixed supply of 21 million.
-                                </p>
+                                    Welcome to the world of Phoenix Gold Network, where gold meets the blockchain in a
+                                    revolutionary way. In simple terms, Phoenix Gold Network (PGN) issues special
+                                    digital tokens called Cyphers, backed by real gold stored in a worldwide
+                                    decentralized network. These Cyphers, residing on the Polygon blockchain, can be
+                                    easily swapped for physical gold at participating shops worldwide, thanks to clever
+                                    Web3 smart contracts. </p>
 
 
                                 <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
                                     <a href="https://phoenix.pandahausfutbol.com/" target="_blank">
-                                        <img src="assets/img/img-pgc_based.svg" style="width: 300px;"
-                                             alt="Mint a gold based NFT">
+                                        <img src="assets/img/img-pgc-buy.svg" style="width: 300px;"
+                                             alt="Buy Phoenix Gold">
                                     </a>
                                 </div>
+                                <p>
+                                    <a href="./assets/docs/Phoenix Gold Network White Paper.pdf" style="text-decoration: underline;" target="_blank">
+                                        Whitepaper
+                                    </a>
+                                </p>
+
 
                             </div>
 
@@ -125,7 +135,8 @@
                     <div class="home-press-inner px-6 py-10">
                         <div class="w-full space-y-12">
                             <div>
-                                <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">About<br><span
+                                <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">
+                                    About<br><span
                                             class="gen-font-gradient">$PGC</span></h1>
                             </div>
                         </div>
@@ -334,10 +345,12 @@
                                                 PGC wallet and pay system</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                Our technology platform makes it easy for non-crypto people to hold and use digital assets and NFTs and to use them to vote,
+                                                Our technology platform makes it easy for non-crypto people to hold and
+                                                use digital assets and NFTs and to use them to vote,
                                                 to buy things and to redeem their NFTs for physical gold at shops.
                                                 <br>
-                                                The platform enables businesses to attract new customers into their shops ands accept payment with tokens.
+                                                The platform enables businesses to attract new customers into their
+                                                shops ands accept payment with tokens.
                                             </p>
                                         </div>
                                     </div>
@@ -362,11 +375,15 @@
                                                 DAO capabilities</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                A custom set of DAO smart contracts and voting and management interfaces for use by people who wish to help their local community and gain influence and benefit from doing so.
+                                                A custom set of DAO smart contracts and voting and management interfaces
+                                                for use by people who wish to help their local community and gain
+                                                influence and benefit from doing so.
                                                 <br>
-                                                DAO participation can vote on admitting or banishing certain partners in the ecosystem as well as influence on larger platform decisions.
+                                                DAO participation can vote on admitting or banishing certain partners in
+                                                the ecosystem as well as influence on larger platform decisions.
                                                 <br>
-                                                Participation in the DAO is proportional to the amount of PGC that is staked or held in wallet.
+                                                Participation in the DAO is proportional to the amount of PGC that is
+                                                staked or held in wallet.
                                             </p>
                                         </div>
                                     </div>
@@ -390,9 +407,13 @@
                                             </h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                The Phoenix Network has a built in NFT marketplace enabling our users to buy and sell their gold based NFTs to the audience that cares about gold.
+                                                The Phoenix Network has a built in NFT marketplace enabling our users to
+                                                buy and sell their gold based NFTs to the audience that cares about
+                                                gold.
                                                 <br>
-                                                This helps make gold more useful by giving the holder more potential to sell on demand, as well as discovering the value of the art the NFT is based on.
+                                                This helps make gold more useful by giving the holder more potential to
+                                                sell on demand, as well as discovering the value of the art the NFT is
+                                                based on.
                                             </p>
                                         </div>
                                     </div>

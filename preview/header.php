@@ -76,13 +76,13 @@
                 <div class="header__logo">
                     <a href="#top">
                         <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
-                        <p>The Phoenix Network</p>
+                        <p style="font-size: 22px;">The Phoenix Network</p>
                     </a>
                 </div>
 
                 <div class="header__menu">
                     <div class="header__menu__btn">
-                        <a href="https://phoenix.pandahausfutbol.com/" style="display:table;margin: auto;" target="_blank"><img src="assets/img/img-pgc_based.svg" alt="Mint a gold based NFT"></a>
+                        <a href="https://phoenix.pandahausfutbol.com/" style="display:table;margin: auto;" target="_blank"><img src="assets/img/img-enter-app.svg" alt="Mint a gold based NFT"></a>
                     </div>
 
                 </div>

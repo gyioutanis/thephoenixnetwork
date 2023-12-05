@@ -40,7 +40,7 @@
             <div class="footer__logo">
                 <a href="#top">
                     <img src="assets/img/logo-tfa.png" alt="logo: PGC" width="33">
-                    <p>The Phoenix Network</p>
+                    <p style="font-size: 22px;">The Phoenix Network</p>
 
 
                     <div class="footer__columns__item__list">

@@ -589,7 +589,7 @@ select:disabled:hover, select[aria-disabled=true] {
       padding: 0 10px 0 0; }
     .header__logo a p {
       color: #e2e2e0;
-      font-size: 20px;
+      font-size: 22px;
       font-weight: 400; }
 
 .header__menu {
