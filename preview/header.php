@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="pavlovec.net">
-    <title>The Phoenix Network</title>
+    <title>Phoenix Gold Network</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
@@ -76,7 +76,7 @@
                 <div class="header__logo">
                     <a href="#top">
                         <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
-                        <p style="font-size: 22px;">The Phoenix Network</p>
+                        <p style="font-size: 22px;">Phoenix Gold Network</p>
                     </a>
                 </div>
 

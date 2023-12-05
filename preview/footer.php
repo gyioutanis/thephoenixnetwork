@@ -40,12 +40,12 @@
             <div class="footer__logo">
                 <a href="#top">
                     <img src="assets/img/logo-tfa.png" alt="logo: PGC" width="33">
-                    <p style="font-size: 22px;">The Phoenix Network</p>
+                    <p style="font-size: 22px;">Phoenix Gold Network</p>
 
 
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="mailto:community@phoenixgoldnetwork.com">community@phoenixgoldnetwork.com</a></li>
+                            <li><a href="mailto:admin@phoenixgoldnetwork.com">admin@phoenixgoldnetwork.com</a></li>
                         </ul>
                     </div>
 
@@ -54,48 +54,48 @@
             <div class="footer__columns">
                 <div class="footer__columns__item">
                     <div class="footer__columns__item__title">
-                        <p><b>Company</b></p>
-                    </div>
-                    <div class="footer__columns__item__list">
-                        <ul>
-                            <li><a href="#about">About Us</a></li>
-                            <li><a href="team.php">Team</a></li>
-                            <li><a href="#">Whitepaper</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="footer__columns__item">
-                    <div class="footer__columns__item__title">
-                        <p><b>Community</b></p>
-                    </div>
-                    <div class="footer__columns__item__list">
-                        <ul>
-                            <li><a href="mailto:list@phoenixgoldnetwork.com">Accept PGC at your business</a></li>
-                            <li><a href="#">Partner with us</a></li>
-                            <li><a href="#">Build PGC community</a></li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="footer__columns__item">
-                    <div class="footer__columns__item__title">
                         <p><b>Quick Links</b></p>
                     </div>
                     <div class="footer__columns__item__list">
                         <ul>
-                            <li><a href="#">PGC on Quickswap </a>
+                            <li><a href="./assets/docs/Phoenix Gold Network White Paper.pdf" target="_blank">Whitepaper</a>
                             </li>
-                            <li><a href="#">wPGC Contract</a></li>
-                            <li>
-                                <a href="#">PGC
-                                    Ledger Info</a></li>
+                            <li><a href="./assets/docs/Phoenix Gold Network - Technical Overview.pdf" target="_blank">Technical Overview</a>
+                            </li>
+                            <li><a href="./assets/docs/PGN for Dummies.pdf" target="_blank">PGN for Dummies</a></li>
                         </ul>
                     </div>
                 </div>
+                <div class="footer__columns__item" style="">
+<!--                    <div class="footer__columns__item__title">-->
+<!--                        <p><b>Company</b></p>-->
+<!--                    </div>-->
+<!--                    <div class="footer__columns__item__list">-->
+<!--                        <ul>-->
+<!--                            <li><a href="#about">About Us</a></li>-->
+<!--                            <li><a href="team.php">Team</a></li>-->
+<!--                            <li><a href="#">Whitepaper</a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+                </div>
+
+                <div class="footer__columns__item" style="">
+<!--                    <div class="footer__columns__item__title">-->
+<!--                        <p><b>Community</b></p>-->
+<!--                    </div>-->
+<!--                    <div class="footer__columns__item__list">-->
+<!--                        <ul>-->
+<!--                            <li><a href="mailto:list@phoenixgoldnetwork.com">Accept PGC at your business</a></li>-->
+<!--                            <li><a href="#">Partner with us</a></li>-->
+<!--                            <li><a href="#">Build PGC community</a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+                </div>
+
+
             </div>
             <div class="footer__copyright">
-                <p>Copyright ©2023 The Phoenix Network All Rights Reserved</p>
+                <p>Copyright ©2023 Phoenix Gold Network All Rights Reserved</p>
             </div>
 
             <div class="footer__lang">

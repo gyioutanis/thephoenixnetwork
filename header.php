@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="pavlovec.net">
-    <title>The Phoenix Network</title>
+    <title>Phoenix Gold Network</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.ico">
@@ -13,6 +13,7 @@
     <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
+
 
 
     <?php $file = 'assets/css/dist/tailwind.css'; ?>
@@ -43,28 +44,56 @@
 
     <?php $file = 'assets/js/header-scripts.js'; ?>
     <script src="<?= $file ?>?v=<?= filectime($file) ?>"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"/>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css"/>
-    <style type="text/css">
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
+<style type="text/css">
 
-    </style>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    fontFamily: {
-                        sans: ['Inter', 'sans-serif'],
-                    },
-                }
-            }
-        };
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
+</style>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: {
+          sans: ['Inter', 'sans-serif'],
+        },
+      }
+    }
+  };
+
+</script>
+<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
 
 </head>
 
 
-<body class="body" style="background-image: url('assets/img/temp/star_background.jpg');">
-<div class="body-inner" id="top" style="align-items:center;justify-content: center;">
+<body class="body">
+<div class="body-inner" id="top">
+    <section class="header-wrap">
+        <header class="header">
+            <div class="header-inner">
+                <div class="header__logo">
+                    <a href="#top">
+                        <img src="assets/img/logo-tfa.png" alt="logo: GPC" width="53">
+                        <p style="font-size: 22px;">Phoenix Gold Network</p>
+                    </a>
+                </div>
+
+                <div class="header__menu">
+                    <div class="header__menu__btn">
+                        <a href="https://phoenix.pandahausfutbol.com/" style="display:table;margin: auto;" target="_blank"><img src="assets/img/img-enter-app.svg" alt="Mint a gold based NFT"></a>
+                    </div>
+
+                </div>
+
+                <div class="header__burger">
+                    <div class="header__burger-inner">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </section>

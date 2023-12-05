@@ -19,18 +19,17 @@
                                 <br>
 
 
-                                <h2 style="margin-bottom:10px;" class="text-6xl capitalize"><span
+                                <h2 style="margin-bottom:10px;"
+                                    class="capitalize text-4xl md:text-5xl xl:text-6xl "><span
                                             style="">Decentralized</span> <span
                                             class="gen-font-gradient">Gold Custody</span>
                                 </h2>
 
                                 <p style="margin-bottom:10px;max-width:700px;">
-                                    Welcome to the world of Phoenix Gold Network, where gold meets the blockchain in a
-                                    revolutionary way. In simple terms, Phoenix Gold Network (PGN) issues special
-                                    digital tokens called Cyphers, backed by real gold stored in a worldwide
-                                    decentralized network. These Cyphers, residing on the Polygon blockchain, can be
-                                    easily swapped for physical gold at participating shops worldwide, thanks to clever
-                                    Web3 smart contracts. </p>
+                                    Phoenix Gold Network (PGN) sells gold held in its one of kind decentralized custody
+                                    network. When you buy gold from PGN, you get digital ownership certificates (Phoenix
+                                    Cyphers) in your Phoenix Web3 app. You can redeem these Cyphers for real gold at
+                                    shops worldwide.</p>
 
 
                                 <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
@@ -40,7 +39,8 @@
                                     </a>
                                 </div>
                                 <p>
-                                    <a href="./assets/docs/Phoenix Gold Network White Paper.pdf" style="text-decoration: underline;" target="_blank">
+                                    <a href="./assets/docs/Phoenix Gold Network White Paper.pdf"
+                                       style="text-decoration: underline;" target="_blank">
                                         Whitepaper
                                     </a>
                                 </p>
@@ -64,22 +64,24 @@
                     <div class="home-press-inner px-6 py-10">
                         <div class="w-full space-y-12">
                             <div>
-                                <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">Eco<span
+                                <h1 class="text-4xl md:text-5xl xl:text-6xl font-semibold text-gray-800 capitalize dark:text-white">
+                                    Eco<span
                                             class="gen-font-gradient">system</span></h1>
                             </div>
                         </div>
                         <div class="home-app__text" style="margin-bottom: 20px;">
                             <p>
-                                Together with our partners we have delivered the foundations for the decentralized
-                                future of gold.
-                            </p>
-                            <br>
+                                The PGN ecosystem is made of a DAO (Decentralized Autonomous Organization), a Web3
+                                platform issuing Cyphers as title claims agains the gold in the network, and Phoenix
+                                Nodes and Custodians who turn the Cyphers back into physical gold on the demand of the
+                                Cypher holder. </p>
+                            <!--                            <br>-->
 
-                            <p>
-                                Phoenix has pioneered a <span
-                                        style="color: #FFB400;">platform for gold based NFTs</span>,
-                                redeemable for physical gold at independent gold shops worldwide.
-                            </p>
+                            <!--                            <p>-->
+                            <!--                                Phoenix has pioneered a <span-->
+                            <!--                                        style="color: #FFB400;">platform for gold based NFTs</span>,-->
+                            <!--                                redeemable for physical gold at independent gold shops worldwide.-->
+                            <!--                            </p>-->
                         </div>
 
 
@@ -90,8 +92,7 @@
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;font-weight: bold;">virtualized physical gold (gold based
-                                    NFTs and limited supply PGC utility tokens)
+                                <p style="font-size: 25px;font-weight: bold;">A Wyoming based Phoenix Gold Network DAO
                                 </p>
                             </div>
                         </div>
@@ -103,8 +104,8 @@
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;font-weight: bold;">a network of gold shops where you can
-                                    redeem your NFT for gold
+                                <p style="font-size: 25px;font-weight: bold;">A worldwide network of gold shops (Phoenix
+                                    Nodes)
                                 </p>
                             </div>
                         </div>
@@ -116,8 +117,9 @@
                             </div>
                             <div class="home-press__item__text">
 
-                                <p style="font-size: 25px;font-weight: bold;">worldwide network of businesses accepting
-                                    PGC tokens</p>
+                                <p style="font-size: 25px;font-weight: bold;">
+                                    A Web3 platform for issuing and managing Cyphers
+                                </p>
                             </div>
                         </div>
 
@@ -129,13 +131,13 @@
         </section>
 
         <section class="gen-color-block home-app-wrap-no-shadow"
-                 style="background-image: url('assets/img/temp/star_background.jpg');padding-top: 40px;">
+                 style="display:none;background-image: url('assets/img/temp/star_background.jpg');padding-top: 40px;">
             <div class="home-app gen-width gen-rim white-font">
                 <div class="home-app-inner home-press gen-width gen-rim">
                     <div class="home-press-inner px-6 py-10">
                         <div class="w-full space-y-12">
                             <div>
-                                <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">
+                                <h1 class="text-4xl md:text-5xl xl:text-6xl font-semibold text-gray-800 capitalize dark:text-white">
                                     About<br><span
                                             class="gen-font-gradient">$PGC</span></h1>
                             </div>
@@ -145,7 +147,8 @@
                                 PGC (Phoenix Gold Coin) is the <span style="color: #FFB400;">adopted token</span> of the
                                 Phoenix Network which serves as a tool for voting, paying transaction fees and buying
                                 things with our network of participating stores and merchants. The only way these tokens
-                                come into existence is when you 'melt' your gold NFT in exchange for tokens. There is a
+                                come into existence is when you 'melt' your gold Cypher in exchange for tokens. There is
+                                a
                                 limited supply of 21 million.
                             </p>
 
@@ -159,7 +162,7 @@
         </section>
 
 
-        <section class="gen-color-block">
+        <section class="gen-color-block" style="display:none;">
             <!--        <section class="home-app-wrap" style="background-image: url('assets/img/temp/star_background.jpg');">-->
             <section class="home-benefits gen-width gen-rim white-font">
                 <div class="home-benefits-inner">
@@ -182,13 +185,15 @@
                         <div class="home-benefits__blocks__item"
                              style="background-color: unset !important;padding-left: 0px;">
                             <div class="home-benefits__blocks__item__text">
-                                <h4 class="text-6xl capitalize">How to get <span class="gen-font-gradient">$PGC</span>
+                                <h4 class="text-4xl md:text-5xl xl:text-6xl capitalize">How to get <span
+                                            class="gen-font-gradient">$PGC</span>
                                 </h4>
                                 <p style="max-width: 700px;">
-                                    $PGC comes into existence only when a gold back NFT is melted.
+                                    $PGC comes into existence only when a gold back Cypher is melted.
                                     <br>Once this limited supply utility token is created through that process you might
                                     be able to get some on a DEFI exchange.
-                                    <br>You can use $PGC to pay transaction fees for gold NFT redemption, to vote or you
+                                    <br>You can use $PGC to pay transaction fees for gold Cypher redemption, to vote or
+                                    you
                                     can spend it with participating merchants worldwide.
 
                                 </p>
@@ -264,14 +269,15 @@
                         <!--                    <div class="home-app__title__img">-->
                         <!--                        <img src="assets/img/logo-tfa.png" alt="">-->
                         <!--                    </div>-->
-                        <h2 class="text-6xl capitalize">The Green Power <span class="gen-font-gradient">App</span></h2>
+                        <h2 class="text-4xl md:text-5xl xl:text-6xl capitalize">The Green Power <span
+                                    class="gen-font-gradient">App</span></h2>
                     </div>
 
                     <div class="home-app__text">
                         <p>The Green Power App (GPA) enables each local community to have their own social network and
                             commerce system. A digital asset wallet is automatically enable easy onboarding of people
                             new to
-                            Web3. Play to earn games and NFT green mining are also included within the app.</p>
+                            Web3. Play to earn games and Cypher green mining are also included within the app.</p>
                     </div>
 
                     <div class="home-app__icons">
@@ -300,28 +306,27 @@
                 <div class="lg:flex lg:items-center">
                     <div class="w-full space-y-12">
                         <div>
-                            <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">Platform<br>
+                            <h1 class="text-4xl md:text-5xl xl:text-6xl font-semibold text-gray-800 capitalize dark:text-white">
+                                Platform<br>
                                 <span
                                         class="gen-font-gradient">Capabilities</span></h1>
                         </div>
 
                         <div class="mt-3 text-gray-500 dark:text-gray-300">
-                            Our technology platform was built over years.
-                            <br>
-                            It enables us to build out further dapps/apps to be launched into our base of gold based
-                            NFT buyers around the world who wish to enjoy the benefits of gold alongside the benefits of
-                            Web3.
+                            Our technology platform was built over years and enables us to build out further services to
+                            support our base of Phoenix
+                            Cypher holders.
                         </div>
 
                         <div class="de_tab tab_simple tabs" style="background-size: cover;">
 
                             <ul class="col-md-12 de_nav">
 
-                                <li class="active tab-gra" style="cursor: pointer;">PGC wallet and pay system
+                                <li class="active tab-gra" style="cursor: pointer;">PGN wallet and pay system
                                 </li>
-                                <li class="tab-gra" style="cursor: pointer;">PGC DAO capabilities
+                                <li class="tab-gra" style="cursor: pointer;">PGN DAO capabilities
                                 </li>
-                                <li class="tab-gra" style="cursor: pointer;">NFT based gold marketplace
+                                <li class="tab-gra" style="cursor: pointer;">Cypher based gold marketplace
                                 </li>
 
                             </ul>
@@ -342,15 +347,15 @@
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
                                             <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                PGC wallet and pay system</h1>
+                                                PGN wallet and pay system</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
                                                 Our technology platform makes it easy for non-crypto people to hold and
-                                                use digital assets and NFTs and to use them to vote,
-                                                to buy things and to redeem their NFTs for physical gold at shops.
+                                                use digital assets and Cyphers and to use them to vote,
+                                                to buy things and to redeem their Cyphers for physical gold at shops.
                                                 <br>
                                                 The platform enables businesses to attract new customers into their
-                                                shops ands accept payment with tokens.
+                                                shops ands accept payment with cyphers.
                                             </p>
                                         </div>
                                     </div>
@@ -371,19 +376,14 @@
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
                                             <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                PGC
+                                                PGN
                                                 DAO capabilities</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
                                                 A custom set of DAO smart contracts and voting and management interfaces
-                                                for use by people who wish to help their local community and gain
-                                                influence and benefit from doing so.
-                                                <br>
-                                                DAO participation can vote on admitting or banishing certain partners in
-                                                the ecosystem as well as influence on larger platform decisions.
-                                                <br>
-                                                Participation in the DAO is proportional to the amount of PGC that is
-                                                staked or held in wallet.
+                                                allow stake holders in the Phoenix Gold Network to approve new Phoenix
+                                                Nodes and navigate the powerful network into the future.
+
                                             </p>
                                         </div>
                                     </div>
@@ -403,17 +403,13 @@
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
                                             <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                NFT based gold marketplace
+                                                Cypher based gold marketplace
                                             </h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                The Phoenix Network has a built in NFT marketplace enabling our users to
-                                                buy and sell their gold based NFTs to the audience that cares about
-                                                gold.
-                                                <br>
-                                                This helps make gold more useful by giving the holder more potential to
-                                                sell on demand, as well as discovering the value of the art the NFT is
-                                                based on.
+                                                The Phoenix Network has a built in Cypher buy/sell capabilities to
+                                                increase liquidity on the Cypher holders assets while employing all the
+                                                protection of smart contracts on the buy/sell process.
                                             </p>
                                         </div>
                                     </div>
@@ -432,7 +428,8 @@
             <div class="home-press-inner px-6 py-10">
                 <div class="w-full space-y-12">
                     <div>
-                        <h1 class="text-6xl font-semibold text-gray-800 capitalize dark:text-white">PGC<br> <span
+                        <h1 class="text-4xl md:text-5xl xl:text-6xl font-semibold text-gray-800 capitalize dark:text-white">
+                            PGC<br> <span
                                     class="gen-font-gradient">News</span></h1>
                     </div>
                 </div>
@@ -557,49 +554,12 @@
         </section>
 
 
-        <section class="gen-color-block">
+        <section class="gen-color-block" style="display: none;">
             <section class="home-achievements gen-width gen-rim white-font">
                 <div class="home-achievements-inner">
-                    <!--                <div class="home-achievements__title">-->
-                    <!--                    <h2 class="text-6xl capitalize">GPC Token<br><span class="gen-font-gradient">Achievements</span>-->
-                    <!--                    </h2>-->
-                    <!--                    <p>GPC (GreenPowerCoin) is a digital asset on the Stellar blockchain.</p>-->
-                    <!--                </div>-->
-
-                    <!--                <div class="home-achievements__list">-->
-                    <!--                    <div class="home-achievements__list__item">-->
-                    <!--                        <h3><span class="gen-font-gradient">167,000+</span></h3>-->
-                    <!--                        <p>GPC Holders</p>-->
-                    <!--                    </div>-->
-                    <!--                    <div class="home-achievements__list__item">-->
-                    <!--                        <h3><span class="gen-font-gradient">1,300,000+</span></h3>-->
-                    <!--                        <p>GPC Transactions</p>-->
-                    <!--                    </div>-->
-                    <!--                    <div class="home-achievements__list__item">-->
-                    <!--                        <h3><span class="gen-font-gradient">400+</span></h3>-->
-                    <!--                        <p>Businesses accepting GPC </p>-->
-                    <!--                    </div>-->
-                    <!--                </div>-->
-
-                    <!--                <div class="home-achievements__block">-->
-                    <!--                    <div class="home-achievements__block__text">-->
-                    <!--                        <h3>Trade $GPC on Bittrex Global</h3>-->
-                    <!--                        <br>-->
-                    <!--                        <a href="#"><img-->
-                    <!--                                    src="assets/img/img-buy-on-bittrex.svg" alt="Buy on Bittrex"></a>-->
-                    <!--                    </div>-->
-                    <!--                    <div class="home-achievements__block__video">-->
-                    <!--                        <div class="home-achievements__block__video-inner">-->
-                    <!--                            <iframe width="560" height="315" src="https://www.youtube.com/embed/jznH9pahDMw"-->
-                    <!--                                    title="YouTube video player" frameborder="0"-->
-                    <!--                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"-->
-                    <!--                                    allowfullscreen></iframe>-->
-                    <!--                        </div>-->
-                    <!--                    </div>-->
-                    <!--                </div>-->
 
                     <div class="home-achievements__title" style="z-index: 2;position: relative;padding-top: 60px">
-                        <h2 class="text-6xl capitalize">GPP <span class="gen-font-gradient">Partners</span>
+                        <h2 class="text-4xl md:text-5xl xl:text-6xl capitalize">GPP <span class="gen-font-gradient">Partners</span>
                         </h2>
                     </div>
 
