@@ -3,7 +3,7 @@
         <section class="gen-title gen-title--center">
             <div class="gen-title-inner">
                 <h2 class="text-6xl font-semibold text-gray-800 capitalize">Follow the <span class="gen-font-gradient">Journey</span></h2>
-                <p>Follow us on social media and join to fast growing Phoenix network.</p>
+                <p>Follow us on social media and join the fast growing Phoenix Gold Network.</p>
             </div>
         </section>
 

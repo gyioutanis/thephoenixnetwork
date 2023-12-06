@@ -72,10 +72,10 @@
                         </div>
                         <div class="home-app__text" style="margin-bottom: 20px;">
                             <p>
-                                The PGN ecosystem is made of a DAO (Decentralized Autonomous Organization), a Web3
+                                The PGN ecosystem is made up of a DAO (Decentralized Autonomous Organization), a Web3
                                 platform issuing Cyphers as title claims agains the gold in the network, and Phoenix
-                                Nodes and Custodians who turn the Cyphers back into physical gold on the demand of the
-                                Cypher holder. </p>
+                                Nodes and Custodians who turn the Cyphers back into physical gold for the Cypher holder.
+                            </p>
                             <!--                            <br>-->
 
                             <!--                            <p>-->
@@ -323,7 +323,7 @@
 
                             <ul class="col-md-12 de_nav">
 
-                                <li class="active tab-gra" style="cursor: pointer;">PGN wallet and pay system
+                                <li class="active tab-gra" style="cursor: pointer;">PGN Pay and Wallet System
                                 </li>
                                 <li class="tab-gra" style="cursor: pointer;">PGN DAO capabilities
                                 </li>
@@ -348,7 +348,7 @@
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
                                             <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                PGN wallet and pay system</h1>
+                                                PGN Pay and Wallet System</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
                                                 Our technology platform makes it easy for non-crypto people to hold and
@@ -383,7 +383,7 @@
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
                                                 A custom set of DAO smart contracts and voting and management interfaces
                                                 allow stake holders in the Phoenix Gold Network to approve new Phoenix
-                                                Nodes and navigate the powerful network into the future.
+                                                Nodes and help guide the powerful network into the future.
 
                                             </p>
                                         </div>
@@ -408,8 +408,8 @@
                                             </h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
-                                                The Phoenix Network has a built in Cypher buy/sell capabilities to
-                                                increase liquidity on the Cypher holders assets while employing all the
+                                                The Phoenix Network has built in Cypher buy/sell capabilities to
+                                                increase liquidity on the Cypher holders' assets while employing all the
                                                 protection of smart contracts on the buy/sell process.
                                             </p>
                                         </div>
@@ -432,6 +432,35 @@
                         <h1 class="text-4xl md:text-5xl xl:text-6xl font-semibold text-gray-800 capitalize dark:text-white">
                             PGC<br> <span
                                     class="gen-font-gradient">News</span></h1>
+                    </div>
+                </div>
+
+                <div class="home-press__item">
+                    <div class="home-press__item__img">
+                        <img src="https://image.cnbcfm.com/api/v1/image/107308670-1695930955313-gettyimages-1478432952-118.jpeg?v=1701792787&w=740&h=416&ffmt=webp&vtcrop=y"
+                             width="560"
+                             height="310" alt="">
+                    </div>
+                    <div class="home-press__item__text">
+
+                        <em class="post-details element-scheme__faded latest_posts-details">Dec 3, 2023
+                            <span class="latest_posts-details-category">
+                                <a href="https://www.cnbc.com/2023/12/04/gold-prices-set-for-new-highs-amid-economic-geopolitical-uncertainty.html"
+                                   rel="category tag">
+                                    CNBC
+                                </a>
+                            </span>
+                        </em>
+                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
+                            <a href="https://www.cnbc.com/2023/12/04/gold-prices-set-for-new-highs-amid-economic-geopolitical-uncertainty.html">
+                                Gold price hits $2,100 for record high — and analysts don’t expect it to stop there
+                            </a>
+                        </h3>
+
+                        <a href="https://www.cnbc.com/2023/12/04/gold-prices-set-for-new-highs-amid-economic-geopolitical-uncertainty.html">
+                            Read more
+                        </a>
+
                     </div>
                 </div>
 
@@ -522,35 +551,6 @@
                     </div>
                 </div>
 
-
-                <div class="home-press__item">
-                    <div class="home-press__item__img">
-                        <img src="https://mintgenie.livemint.com/_next/image?url=https%3A%2F%2Fimages.livemint.com%2Fimg%2F2023%2F01%2F17%2F1260x709%2Fgold_1673950577215_1673975458598_1673975458598.jpg&w=1200&q=100"
-                             width="560"
-                             height="310" alt="">
-                    </div>
-                    <div class="home-press__item__text">
-
-                        <em class="post-details element-scheme__faded latest_posts-details">Jan 22, 2023
-                            <span class="latest_posts-details-category">
-                                <a href="https://mintgenie.livemint.com/news/personal-finance/gold-hits-all-time-high-should-you-buy-now-6-experts-weigh-in-151673975431196"
-                                   rel="category tag">
-                                    Mint genie
-                                </a>
-                            </span>
-                        </em>
-                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
-                            <a href="https://mintgenie.livemint.com/news/personal-finance/gold-hits-all-time-high-should-you-buy-now-6-experts-weigh-in-151673975431196">
-                                Gold hits all-time high, should you buy now? 6 experts weigh in
-                            </a>
-                        </h3>
-
-                        <a href="https://mintgenie.livemint.com/news/personal-finance/gold-hits-all-time-high-should-you-buy-now-6-experts-weigh-in-151673975431196">
-                            Read more
-                        </a>
-
-                    </div>
-                </div>
 
         </section>
 
