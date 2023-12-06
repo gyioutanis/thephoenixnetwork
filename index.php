@@ -29,7 +29,8 @@
                                     Phoenix Gold Network (PGN) sells gold held in its one of kind decentralized custody
                                     network. When you buy gold from PGN, you get digital ownership certificates (Phoenix
                                     Cyphers) in your Phoenix Web3 app. You can redeem these Cyphers for real gold at
-                                    shops worldwide.</p>
+                                    shops and custodians worldwide.
+                                </p>
 
 
                                 <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
