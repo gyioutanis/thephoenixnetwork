@@ -26,10 +26,11 @@
                                 </h2>
 
                                 <p style="margin-bottom:10px;max-width:700px;">
-                                    Phoenix Gold Network (PGN) sells gold held in its 'one of a kind' decentralized
-                                    custody network. When you buy gold from PGN, you get digital ownership certificates
-                                    (Phoenix Cyphers) in your Phoenix Web3 Wallet. You can redeem these Cyphers for real
-                                    gold at shops and custodians worldwide. </p>
+                                    Phoenix Gold Network (PGN) sells gold held in its groundbreaking decentralized
+                                    custody network. When you buy gold Phoenix Gold, you get digital ownership
+                                    certificates called Cyphers in your Phoenix Web3 Wallet. You can redeem these
+                                    Cyphers for real gold at shops and custodians worldwide.
+                                </p>
 
 
                                 <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
@@ -39,9 +40,9 @@
                                     </a>
                                 </div>
                                 <p>
-                                    <a href="./assets/docs/Phoenix Gold Network White Paper.pdf"
+                                    <a href="./assets/docs/Manifesto - PGN.pdf"
                                        style="text-decoration: underline;" target="_blank">
-                                        Whitepaper
+                                        Manifesto
                                     </a>
                                 </p>
 
@@ -313,16 +314,15 @@
                         </div>
 
                         <div class="mt-3 text-gray-500 dark:text-gray-300">
-                            Our technology platform was built over years and enables us to build out further services to
-                            support our base of Phoenix
-                            Cypher holders.
+                            The Phoenix Web3 technology platform was built over years and enables Phoenix to build out
+                            further services to support use of gold and liquidity for Phoenix Cypher holders.
                         </div>
 
                         <div class="de_tab tab_simple tabs" style="background-size: cover;">
 
                             <ul class="col-md-12 de_nav">
 
-                                <li class="active tab-gra" style="cursor: pointer;">PGN Pay and Wallet System
+                                <li class="active tab-gra" style="cursor: pointer;">PNG Gold Pay System
                                 </li>
                                 <li class="tab-gra" style="cursor: pointer;">PGN DAO capabilities
                                 </li>
@@ -347,15 +347,18 @@
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
                                             <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                PGN Pay and Wallet System</h1>
+                                                PNG Gold Pay System</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
+                                                PGN enables you to use your Cypher to pay for goods and services at
+                                                participating shops that want to 'accept gold as payment'. The shop is
+                                                transferred the Cypher (which is broken into smaller parts automatically
+                                                to match the amount owned). This Pay system brings new liquidity options
+                                                to your gold holding, brining gold back into daily life as a currency.
+                                                <br>
                                                 Our technology platform makes it easy for non-crypto people to hold and
                                                 use digital assets and Cyphers and to use them to vote,
                                                 to buy things and to redeem their Cyphers for physical gold at shops.
-                                                <br>
-                                                The platform enables businesses to attract new customers into their
-                                                shops ands accept payment with cyphers.
                                             </p>
                                         </div>
                                     </div>
@@ -493,62 +496,62 @@
                 </div>
 
 
-                <div class="home-press__item">
-                    <div class="home-press__item__img">
-                        <img src="https://www.nasdaq.com/sites/acquia.prod/files/styles/1370x700/public/etf_trends/Screenshot-2022-12-16-091501-440x250.png?1674804089506373050"
-                             width="560"
-                             height="310" alt="">
-                    </div>
-                    <div class="home-press__item__text">
+                <!--                <div class="home-press__item">-->
+                <!--                    <div class="home-press__item__img">-->
+                <!--                        <img src="https://www.nasdaq.com/sites/acquia.prod/files/styles/1370x700/public/etf_trends/Screenshot-2022-12-16-091501-440x250.png?1674804089506373050"-->
+                <!--                             width="560"-->
+                <!--                             height="310" alt="">-->
+                <!--                    </div>-->
+                <!--                    <div class="home-press__item__text">-->
+                <!---->
+                <!--                        <em class="post-details element-scheme__faded latest_posts-details">Dec 17, 2022-->
+                <!--                            <span class="latest_posts-details-category">-->
+                <!--                                <a href="https://www.nasdaq.com/articles/gold-has-the-potential-to-hit-%243000-or-%244000-an-ounce-in-2023"-->
+                <!--                                   rel="category tag">-->
+                <!--                                    Nasdaq-->
+                <!--                                </a>-->
+                <!--                            </span>-->
+                <!--                        </em>-->
+                <!--                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">-->
+                <!--                            <a href="https://www.nasdaq.com/articles/gold-has-the-potential-to-hit-%243000-or-%244000-an-ounce-in-2023">-->
+                <!--                                Gold Has The Potential To Hit $3,000 Or $4,000 An Ounce In 2023-->
+                <!--                            </a>-->
+                <!--                        </h3>-->
+                <!---->
+                <!--                        <a href="https://www.nasdaq.com/articles/gold-has-the-potential-to-hit-%243000-or-%244000-an-ounce-in-2023">-->
+                <!--                            Read more-->
+                <!--                        </a>-->
+                <!---->
+                <!--                    </div>-->
+                <!--                </div>-->
 
-                        <em class="post-details element-scheme__faded latest_posts-details">Dec 17, 2022
-                            <span class="latest_posts-details-category">
-                                <a href="https://www.nasdaq.com/articles/gold-has-the-potential-to-hit-%243000-or-%244000-an-ounce-in-2023"
-                                   rel="category tag">
-                                    Nasdaq
-                                </a>
-                            </span>
-                        </em>
-                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
-                            <a href="https://www.nasdaq.com/articles/gold-has-the-potential-to-hit-%243000-or-%244000-an-ounce-in-2023">
-                                Gold Has The Potential To Hit $3,000 Or $4,000 An Ounce In 2023
-                            </a>
-                        </h3>
-
-                        <a href="https://www.nasdaq.com/articles/gold-has-the-potential-to-hit-%243000-or-%244000-an-ounce-in-2023">
-                            Read more
-                        </a>
-
-                    </div>
-                </div>
-
-                <div class="home-press__item">
-                    <div class="home-press__item__img">
-                        <img src="https://guardian.ng/wp-content/uploads/2022/11/Gold-bars-1424x802.jpg"
-                             width="560"
-                             height="310" alt="">
-                    </div>
-                    <div class="home-press__item__text">
-
-                        <em class="post-details element-scheme__faded latest_posts-details">Dec 22, 2022
-                            <span class="latest_posts-details-category">
-                                <a href="https://news.am/eng/news/736535.html" rel="category tag">
-                                    News.am
-                                </a>
-                            </span>
-                        </em>
-                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">
-                            <a href="https://news.am/eng/news/736535.html">
-                                Gold prices may rise to $4,000 an ounce in 2023
-                            </a>
-                        </h3>
-
-                        <a href="https://news.am/eng/news/736535.html">
-                            Read more
-                        </a>
-
-                    </div>
-                </div>
+                <!--                <div class="home-press__item">-->
+                <!--                    <div class="home-press__item__img">-->
+                <!--                        <img src="https://guardian.ng/wp-content/uploads/2022/11/Gold-bars-1424x802.jpg"-->
+                <!--                             width="560"-->
+                <!--                             height="310" alt="">-->
+                <!--                    </div>-->
+                <!--                    <div class="home-press__item__text">-->
+                <!---->
+                <!--                        <em class="post-details element-scheme__faded latest_posts-details">Dec 22, 2022-->
+                <!--                            <span class="latest_posts-details-category">-->
+                <!--                                <a href="https://news.am/eng/news/736535.html" rel="category tag">-->
+                <!--                                    News.am-->
+                <!--                                </a>-->
+                <!--                            </span>-->
+                <!--                        </em>-->
+                <!--                        <h3 class="m_title m_title_ext text-custom latest_posts-title" itemprop="headline">-->
+                <!--                            <a href="https://news.am/eng/news/736535.html">-->
+                <!--                                Gold prices may rise to $4,000 an ounce in 2023-->
+                <!--                            </a>-->
+                <!--                        </h3>-->
+                <!---->
+                <!--                        <a href="https://news.am/eng/news/736535.html">-->
+                <!--                            Read more-->
+                <!--                        </a>-->
+                <!---->
+                <!--                    </div>-->
+                <!--                </div>-->
 
 
         </section>
