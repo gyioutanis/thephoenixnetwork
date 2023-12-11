@@ -27,9 +27,9 @@
 
                                 <p style="margin-bottom:10px;max-width:700px;">
                                     Phoenix Gold Network (PGN) sells gold held in its groundbreaking decentralized
-                                    custody network. When you buy gold Phoenix Gold, you get digital ownership
-                                    certificates called Cyphers in your Phoenix Web3 Wallet. You can redeem these
-                                    Cyphers for real gold at shops and custodians worldwide.
+                                    custody network. When you buy Phoenix Gold, you get digital ownership certificates
+                                    called Cyphers in your Phoenix Web3 Wallet. You can redeem these Cyphers for real
+                                    gold at shops and custodians worldwide.
                                 </p>
 
 
@@ -322,7 +322,7 @@
 
                             <ul class="col-md-12 de_nav">
 
-                                <li class="active tab-gra" style="cursor: pointer;">PNG Gold Pay System
+                                <li class="active tab-gra" style="cursor: pointer;">PGN Wallet and Gold Pay System
                                 </li>
                                 <li class="tab-gra" style="cursor: pointer;">PGN DAO capabilities
                                 </li>
@@ -347,7 +347,7 @@
 
                                         <div class="mt-4 md:mx-4 md:mt-0">
                                             <h1 class="text-2xl font-semibold text-gray-700 capitalize dark:text-white">
-                                                PNG Gold Pay System</h1>
+                                                PGN Wallet and Gold Pay System</h1>
 
                                             <p class="mt-3 text-gray-500 dark:text-gray-300">
                                                 PGN enables you to use your Cypher to pay for goods and services at
@@ -356,9 +356,10 @@
                                                 to match the amount owned). This Pay system brings new liquidity options
                                                 to your gold holding, brining gold back into daily life as a currency.
                                                 <br>
+                                                <br>
                                                 Our technology platform makes it easy for non-crypto people to hold and
-                                                use digital assets and Cyphers and to use them to vote,
-                                                to buy things and to redeem their Cyphers for physical gold at shops.
+                                                use digital assets and Cyphers and to use them to vote, to buy things
+                                                and to redeem their Cyphers for physical gold at shops.
                                             </p>
                                         </div>
                                     </div>
