@@ -63,6 +63,8 @@
                             <li><a href="./assets/docs/Phoenix Gold Network - Technical Overview.pdf" target="_blank">Technical Overview</a>
                             </li>
                             <li><a href="./assets/docs/PGN for Dummies.pdf" target="_blank">PGN for Dummies</a></li>
+                            <li><a href="https://phoenixgoldcoin.com/" target="_blank">Phoenix Gold Coin ($PGC)</a></li>
+
                         </ul>
                     </div>
                 </div>
