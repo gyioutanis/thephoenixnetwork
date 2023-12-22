@@ -82,7 +82,7 @@
 
                 <div class="header__menu">
                     <div class="header__menu__btn">
-                        <a href="https://phoenix.pandahausfutbol.com/" style="display:table;margin: auto;" target="_blank"><img src="assets/img/img-enter-app.svg" alt="Mint a gold based NFT"></a>
+                        <a href="https://web3.phoenixgoldnetwork.com/" style="display:table;margin: auto;" target="_blank"><img src="assets/img/img-enter-app.svg" alt="Mint a gold based NFT"></a>
                     </div>
 
                 </div>

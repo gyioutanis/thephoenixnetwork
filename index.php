@@ -34,7 +34,7 @@
 
 
                                 <div style="margin-top: 30px;display: inline-block;margin-bottom: 30px;z-index: 1;">
-                                    <a href="https://phoenix.pandahausfutbol.com/" target="_blank">
+                                    <a href="https://web3.phoenixgoldnetwork.com/" target="_blank">
                                         <img src="assets/img/img-pgc-buy.svg" style="width: 300px;"
                                              alt="Buy Phoenix Gold">
                                     </a>
