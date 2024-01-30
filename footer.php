@@ -8,27 +8,27 @@
         </section>
 
         <section class="gen-social">
-            <div class="gen-social__item">
-                <a href="https://www.linkedin.com/company/phoenix-web3-gold-network/"><img src="assets/img/icon-linkedin--white.svg"
-                                                                            alt=""></a>
-            </div>
+            <!--            <div class="gen-social__item">-->
+            <!--                <a href="https://www.linkedin.com/company/phoenix-web3-gold-network/"><img src="/assets/img/icon-linkedin--white.svg"-->
+            <!--                                                                                           alt=""></a>-->
+            <!--            </div>-->
             <div class="gen-social__item">
                 <a href="https://www.youtube.com/channel/UCF6YoiHyo7VSWv_o6aVhNdw"><img
-                            src="assets/img/icon-youtube--white.svg" alt=""></a>
+                            src="/assets/img/icon-youtube--white.svg" alt=""></a>
             </div>
             <div class="gen-social__item">
-                <a href="https://t.me/phoenixweb3gold"><img src="assets/img/icon-telegram--white.svg" alt=""></a>
+                <a href="https://t.me/+gXj0hGma_0tjZTZk"><img src="/assets/img/icon-telegram--white.svg" alt=""></a>
             </div>
             <div class="gen-social__item">
-                <a href="https://twitter.com/PhoenixWeb3Gold"><img src="assets/img/icon-twitter--white.svg" alt=""></a>
+                <a href="https://twitter.com/PhoenixGoldCoin"><img src="/assets/img/icon-twitter--white.svg" alt=""></a>
             </div>
-            <div class="gen-social__item">
-                <a href="https://www.facebook.com/profile.php?id=100089400746577"><img src="assets/img/icon-facebook--white.svg" alt=""></a>
-            </div>
-            <div class="gen-social__item">
-                <a href="http://instagram.com/phoenixweb3gold"><img src="assets/img/icon-instagram--white.svg"
-                                                                    alt=""></a>
-            </div>
+            <!--            <div class="gen-social__item">-->
+            <!--                <a href="https://www.facebook.com/profile.php?id=100089400746577"><img src="/assets/img/icon-facebook--white.svg" alt=""></a>-->
+            <!--            </div>-->
+            <!--            <div class="gen-social__item">-->
+            <!--                <a href="http://instagram.com/phoenixweb3gold"><img src="/assets/img/icon-instagram--white.svg"-->
+            <!--                                                                    alt=""></a>-->
+            <!--            </div>-->
         </section>
     </section>
 </section>
