@@ -72,9 +72,12 @@
                         </div>
                         <div class="home-app__text" style="margin-bottom: 20px;">
                             <p>
-                                The PGN ecosystem is made up of a DAO (Decentralized Autonomous Organization), a Web3
-                                platform issuing Cyphers as title claims agains the gold in the network, and Phoenix
-                                Nodes and Custodians who turn the Cyphers back into physical gold for the Cypher holder.
+                                Phoenix Gold Network decentralizes the custody of physical gold, removes counter-party
+                                risk and increases its liquidity and usability in commerce. The PGN ecosystem is made up
+                                of a DAO (Decentralized Autonomous Organization), a Web3 platform issuing Cyphers as
+                                title claims against the gold in the network, and Phoenix Nodes and Custodians who turn
+                                the Cyphers back into physical gold for the Cypher holder. PGC is used the following
+                                ways within the network:
                             </p>
                             <!--                            <br>-->
 
